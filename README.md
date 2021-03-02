@@ -38,7 +38,7 @@ This tutorial accomplishes two things:
           ---
           layout: post
           date:   2021-01-01
-          image: "/your-site-name/images/csr_thumbnail.png"
+          image: "/conflict_urbanism_sp2021/images/csr_thumbnail.png"
           title:  "Template Post: Title of Your Final Project"
           author: "Names Of Everyone In Your Group"
           ---
