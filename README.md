@@ -9,6 +9,8 @@ It was developed by the [Columbia Center for Spatial Research](c4sr.columbia.edu
 - could be easily customized
 - is straightforward enough that it can be used by students with no prior experience making things on the web
 
+In spring 2020 the template was used by the [Conflict Urbanism](https://centerforspatialresearch.github.io/conflict_urbanism_sp2020/) seminar, taught by Laura Kurgan.
+
 In spring 2019 the template was used by the [Conflict Urbanism: Puerto Rico Now](puerto-rico-now.c4sr.columbia.edu/) seminar, taught by Laura Kurgan and Frances Negrón-Muntaner.
 
 We are making this template available for others to adapt or use in their own courses.
