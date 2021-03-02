@@ -6,7 +6,7 @@
 # in the templates via {{ site.myvariable }}
 
 baseurl: "/conflict_urbanism_sp2021" # the subpath of your site, replace with the name of the github repository where you will host your site
-url: "" # the base hostname & protocol for your site, e.g. http://github-username.io
+url: "https://centerforspatialresearch.github.io/" # the base hostname & protocol for your site, e.g. http://github-username.io
 
 title: Conflict Urbanism
 author: Laura Kurgan
