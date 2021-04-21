@@ -3,50 +3,69 @@ layout: post
 date:   2021-04-20
 image: "/conflict_urbanism_sp2021/images/csr_thumbnail.png"
 title:  "Template Post: Title of Your Final Project"
-author: "Names Of Everyone In Your Group"
+author: "Henry Black, Gizem Karagoz, Caroline Maxwell, Adam Vosburgh"
 ---
-This is a document that is written in markdown. What is markdown? It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.  
 
-To present and turn in your final projects for Conflict Urbanism: Puerto Rico Now you will be editing this template. You will include all of the text of your paper here, along with any and all images, maps, videos, or other materials that you produce.  
+#### **Food Insecurity in the Hudson Valley**  
 
-[This webpage](https://guides.github.com/features/mastering-markdown/) provides a comprehensive guide to markdown syntax. But to make things easier for you we are including a cheat sheet of the main things you need to know here.  
+![Placeholder Image](/conflict_urbanism_sp2021/images/FoodScarcity/images/farmPlaceholder.jpeg)
 
-#### Please use level 4 headings for major section divisions  
-(make sure to put two spaces after the end of the heading)
+In 1970, Henry Kissinger remarked that "[when you] control food, you control the people." While food can transcend cultural boundaries, it is also a site of conflict. Our research focuses on the superfluous nature of corporate supply chains and why food becomes increasingly vulnerable the further it travels from its source. We hope to reveal broader systemic fractures in our food system through examining infrastructures' role in exacerbating food insecurity in the Hudson Valley during the Covid-19 pandemic. Why does a food desert exist in such an agriculturally wealthy region? What are methods for creating food sovereignty? How is food being utilized as a tool of soft power?  
 
-Write **words in bold** like this.  
+In investigating the Hudson Valley's local struggles, we hope to reveal broader systemic fractures within the US food system. Our government has prioritized capital over sustainability, and we are now seeing the repercussions of that prioritization in climate change, food insecurity, and environmental degradation. The COVID-19 pandemic has further illuminated how fragile we are as a species and provided a window to reflect and reorient our relationship with the world. What can food teach us about recovering from the pandemic and evolving as a species? In what ways does food infrastructure conceptually and physically perform in the staging of capitalist narratives?   
 
-Italics are *similar* and are formatted like this.  
+#### Food Insecurity  
 
-To make a paragraph break you need to add two spaces at the end of your line before going to the next line.  
+Food insecurity refers to the USDA's measure of access to enough food for all household members to have an active, healthy life. This may reflect a family's need to make trade-offs between essential basic needs, such as housing or medical bills, and purchasing nutritionally adequate foods. The pandemic has exacerbated the patterns of vulnerability that cause food insecurity. As schools closed and people lost their jobs, meals became increasingly difficult to afford.  
 
-See this is now a new paragraph.  
+<div class="iframe-column"><iframe src="https://api.mapbox.com/styles/v1/mapbox/satellite-v9.html?title=true&access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NDg1bDA1cjYzM280NHJ5NzlvNDMifQ.d6e-nNyBDtmQCVwVNivz7A#2/0/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
+This map will illustrate food insecurity rates pre/post covid once the data is released from Feeding America Foundation this week.   
 
-Lists are easy:
-1. they can be ordered
-1. like this
-1. notice that the numbers are automatically ordered
-  1. use two spaces in front to indent
+![Infrastructure Diagram](/conflict_urbanism_sp2021/images/FoodScarcity/images/diagramPlaceholder1.png)  
 
-Or they can just be bullet points:
-- like this
-* or like this
-  - use two spaces
-  - to have nested lists
+![Infrastructure Diagram](/conflict_urbanism_sp2021/images/FoodScarcity/images/diagramPlaceholder2.png)  
 
-Use Author-Date parenthetical citations following Chicago Manual of Style conventions throughout your document, and add a works cited at the bottom of your post. See Author-Date quick guide [here](https://www-chicagomanualofstyle-org.ezproxy.cul.columbia.edu/tools_citationguide/citation-guide-2.html) for citation conventions.  
+Infrastructure networks facilitate the flow of goods and allow for their exchange over space. They are the foundation of the production, processing, storage, distribution, retailing, consumption, and waste management of food within a broader system. These systems simultaneously reveal forms of political rationality that shape their terms of access. While food infrastructures promise development and stability, their breakdowns reveal unsustainable notions of progress and economic growth. The tension between promise and failure makes infrastructure a productive site for analysis.  
 
-To include hyperlinks format them like this [text of link](http://c4sr.columbia.edu/).  
+This diagram illustrates how food becomes increasingly vulnerable the further it travels from its source. It illustrates the apparatuses of infrastructural dependency embedded within our food systems. A select few corporations have monopolized these networks, so when one fails, the ripple effects are felt throughout the country. This is why most food has to travel at least 100 miles to be stocked right next to its source in Ulster County. 
+In contrast, shorter food chains are being established, such as CSAs, farmers markets, and food banks. Our research looks further into these grassroots organizing efforts as infrastructural forms of resistance which are fundamental to Hudson Valley’s food supply chain.  
 
-To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:  
+#### Apple Case Study  
 
-![description of image](/conflict_urbanism_sp2021/images/sample_image.png)
+![Apple Case Study](/conflict_urbanism_sp2021/images/FoodScarcity/images/applesToapples1.png)  
 
-If you want to include html files (i.e. an interactive map) host these via your personal github page, and then you can embed them in your document with a iframe. The format looks like this:  
+For example, here is a case study that compares two apples purchased in Kingston, NY. One from Walmart and one from the local farmers market.  
 
-<div class="iframe-column"><iframe src="https://player.vimeo.com/video/290575503?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
+#### Ulster County  
 
+<div class="iframe-column"><iframe src="https://akv2118.github.io/ConflictUrbSp2021/Ulster-Map/index.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
 
-All you need to do to use one is replace the url that is between the two " ". Here is an iframe of mapbox tiles:  
+#### Kingston  
 
-<div class="iframe-column"><iframe src="https://api.mapbox.com/styles/v1/mapbox/satellite-v9.html?title=true&access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NDg1bDA1cjYzM280NHJ5NzlvNDMifQ.d6e-nNyBDtmQCVwVNivz7A#2/0/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+![Kinston Nodes on Supply Chains](/conflict_urbanism_sp2021/images/FoodScarcity/maps/placeholder1.png)  
+
+We mapped nodes on a long and short supply chain for Kingston, in this map red being for points on a long supply chain, yellow for short, orange for both.  
+
+![Long Chain - Kingston](/conflict_urbanism_sp2021/images/FoodScarcity/maps/placeholder2.png)  
+
+Nodes on a long chain are primarily grocery stores and big box retailers, Hanaford, Walmart, Target. We chose Walmart as a typical example of a long supply chain and looked into their supply chain.  
+
+![Long Chain - Travel Distance](/conflict_urbanism_sp2021/images/FoodScarcity/maps/placeholder3.png)  
+
+Going off of publicly accessible information and then phone calls to Walmart itself we were able to make a few decent assumptions. The trips on the journey for a longer supply chain is a farm, a processing facility, distribution center, and Walmart. Three of Walmarts main suppliers are located in Washington State, New York State, and Canada, and they are all owned by or subsidiaries of Super Fresh Growers. For the domestically sourced apples, the trip from Washington state is 2800 miles, and the average distance of Sweet Tango’s orchards (Sweet Tango is a subsidiary of Super Fresh Growers) is about 250 miles, all of their farms are located near the Canadian border. The Walmart distribution centers themselves are located in clusters around Schenectady and Scranton, 80 miles from Kingston. These long chains, supposedly the result of market efficiencies, instead express the logic of consolidated ownership structures.  
+
+![Short Chain - Kingston](/conflict_urbanism_sp2021/images/FoodScarcity/maps/placeholder4.png)  
+
+Items that fall on a short chain for Kingston are farms, local distribution centers, food pantries and farmers markets. We chose Kingston farmers market as an example.  
+
+![Short Chain - Travel Distance](/conflict_urbanism_sp2021/images/FoodScarcity/maps/placeholder5.png)  
+
+A primary orchard that sells its produce at Kingston Farmers market is Maynard farms, an 8 mile drive away. Maynard farms is one of thousands of small or mid-sized hudson valley farms whose produce are left out of larger supply chains because of their lack of access to large distributors, resulting in these “short chains” that are made through direct community links as an alternative infrastructure. The result of a food system running at peak market efficiency for consolidated actors is grocery stores stocked with products not from the incredible agricultural wealth they are surrounded by, the pricing of which makes them unaffordable to over 10% of the population.  
+
+![Apple Embodied Energy](/conflict_urbanism_sp2021/images/FoodScarcity/images/applesToapples2.png)  
+
+This is a placeholder but we would like to make an attempt at calculating embodied carbon, energy, water, and labor in our apples.  
+ 
+#### Forms of Resistance  
+
+Need some stuff here.
