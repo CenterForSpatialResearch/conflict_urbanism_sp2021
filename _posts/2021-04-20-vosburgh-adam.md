@@ -1,14 +1,14 @@
 ---
 layout: post
 date:   2021-04-20
-image: "/conflict_urbanism_sp2021/images/csr_thumbnail.png"
+image: "/conflict_urbanism_sp2021/images/FoodScarcity/images/applesToapples1.png"
 title:  "Food Scarcity in the Hudson Valley"
 author: "Henry Black, Gizem Karagoz, Caroline Maxwell, Adam Vosburgh"
 ---
 
 #### **Food Insecurity in the Hudson Valley**  
 
-![Placeholder Image](/conflict_urbanism_sp2021/images/FoodScarcity/images/applesToapples1.png)
+![Placeholder Image](/conflict_urbanism_sp2021/images/FoodScarcity/images/farmPlaceholder.jpeg)
 
 In 1970, Henry Kissinger remarked that "[when you] control food, you control the people." While food can transcend cultural boundaries, it is also a site of conflict. Our research focuses on the superfluous nature of corporate supply chains and why food becomes increasingly vulnerable the further it travels from its source. We hope to reveal broader systemic fractures in our food system through examining infrastructures' role in exacerbating food insecurity in the Hudson Valley during the Covid-19 pandemic. Why does a food desert exist in such an agriculturally wealthy region? What are methods for creating food sovereignty? How is food being utilized as a tool of soft power?  
 
