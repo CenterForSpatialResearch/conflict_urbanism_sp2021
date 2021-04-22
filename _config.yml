@@ -16,9 +16,6 @@ description:  >- # this means to ignore newlines until "baseurl:"
 
 
 # Build settings - no need to change these
-markdown: kramdown
-kramdown:
-  parse_block_html: true
 theme: minima
 plugins:
   - jekyll-feed
