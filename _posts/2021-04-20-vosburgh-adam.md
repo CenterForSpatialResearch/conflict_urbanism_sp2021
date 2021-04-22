@@ -18,7 +18,7 @@ In investigating the Hudson Valley's local struggles, we hope to reveal broader 
 
 Food insecurity refers to the USDA's measure of access to enough food for all household members to have an active, healthy life. This may reflect a family's need to make trade-offs between essential basic needs, such as housing or medical bills, and purchasing nutritionally adequate foods. The pandemic has exacerbated the patterns of vulnerability that cause food insecurity. As schools closed and people lost their jobs, meals became increasingly difficult to afford.  
 
-<div class="iframe-column"><iframe src="https://api.mapbox.com/styles/v1/mapbox/satellite-v9.html?title=true&access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NDg1bDA1cjYzM280NHJ5NzlvNDMifQ.d6e-nNyBDtmQCVwVNivz7A#2/0/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
+<div class="iframe-column"><iframe src="https://akv2118.github.io/ConflictUrbSp2021/COVIDmap/index.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
 This map will illustrate food insecurity rates pre/post covid once the data is released from Feeding America Foundation this week.   
 
 ![Infrastructure Diagram](/conflict_urbanism_sp2021/images/FoodScarcity/images/diagramPlaceholder1.png)  
