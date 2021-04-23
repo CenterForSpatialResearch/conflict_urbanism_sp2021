@@ -6,10 +6,21 @@ title:  "Transnationalism across the US-Mexican Border"
 author: "Alina Abouelenin"
 ---
 
-#### Please use level 4 headings for major section divisions  
-(make sure to put two spaces after the end of the heading)
+#### A record surge of remittances in spite of Mexican migrant exodus  
 
-Write **words in bold** like this.
+
+This narrative map considers the overall theme of the class, Conflict Urbanism, through the lens of migration, specifically through the idea of transnationalism in the form of remittance flows and the movement of people due to migration and reverse migration.
+
+
+Over the past few years we have witnessed a very distinct narrative being crafted under the Trump administration, where border control and hostile immigration policies became a vital aspect of the presidential campaign. Yet, even before Trump took office, Mexican migration has been declining, with more Mexican immigrants returning to Mexico voluntarily than coming into the US, indicating a trend of reverse migration taking place. From 2010 to 2018, a total of 2.6 million Mexican nationals left the US undocumented population. Curiously, around the same time that Mexican migration has been declining, the amount of remittances from the US to Mexico has steadily been increasing and in 2020, with remittances around the world suffering a massive hit due to Covid-19 impacts, Mexico has reached an all-time record with almost $40 billions of remittances being sent back to Mexico, approximately equal to 4 percent of Mexico’s GDP. Flows from the US to Mexico has become the single largest bilateral transfer of remittances in the world. Between 2014 and 2017 alone, the corridor grew by 42.7% from $24 billion to 34.70 billion in 2017.
+
+
+These, however interesting the trends are, remain just that – trends and numbers. The goal of this project was to do a human driven narrative map. Through anecdotes shared through a series of interviews that have been conducting in order build this map the data and the numbers are provided a different perspective – they are given a name and they are given a story.
+
+
+This project, through reporting and journalistic work, set up the wider themes that were explored for my Advanced VI Studio project, “Family Across the Border” and provided a fundamental foundation.  Through this mode of operating, the goal was to highlight how methods of journalism are invaluable to the discipline of Architecture.
+
+
 
 Italics are *similar* and are formatted like this.
 
@@ -35,7 +46,11 @@ To include hyperlinks format them like this [text of link](http://c4sr.columbia.
 
 To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:
 
-![description of image](/conflict_urbanism_sp2021/images/sample_image.png)
+
+![description of image](/conflict_urbanism_sp2021/images/Abouelenin_narrative map.jpg)
+
+
+<img src="/conflict_urbanism_sp2021/images/Abouelenin_narrative map.jpg" alt="Narrative Map of Transnationalism across the US-Mexican Border told through the stories of three different family networks" class="full-img">
 
 If you want to include html files (i.e. an interactive map) host these via your personal github page, and then you can embed them in your document with a iframe. The format looks like this:
 
