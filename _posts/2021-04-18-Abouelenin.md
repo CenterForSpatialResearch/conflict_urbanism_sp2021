@@ -46,10 +46,15 @@ To embed images first ensure that the file is at least 740px wide. Then place th
 
 <img src="/conflict_urbanism_sp2021/images/Abouelenin_narrative map.jpg" alt="Narrative Map of Transnationalism across the US-Mexican Border told through the stories of three different family networks" class="full-img">
 
+
+<img src="/conflict_urbanism_sp2021/images/abouelenin_long version.png" alt="Narrative Map of Transnationalism across the US-Mexican Border told through the stories of three different family networks" class="full-img">
+
+
+
 If you want to include html files (i.e. an interactive map) host these via your personal github page, and then you can embed them in your document with a iframe. The format looks like this:
 
 
-![description of image](/conflict_urbanism_sp2021/images/audioimage01.png)
+![description of image](/conflict_urbanism_sp2021/images/abouelenin_audioimage01.png)
 
 
 <div class="iframe-column"><iframe src="https://soundcloud.com/brunomars/bruno-mars-anderson-paak-silk" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
