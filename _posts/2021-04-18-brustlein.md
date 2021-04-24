@@ -22,3 +22,25 @@ We contend that the spatial violence of defensive architecture, CPTED measures, 
 
 
 **George Floyd lived and died in a place that was sterile and hostile to members of his community.**
+
+![time of death](/conflict_urbanism_sp2021/images/brustlein_racialcovenants.png)
+
+![time of death](/conflict_urbanism_sp2021/images/brustlein_censusblock-01.png)
+
+![time of death](/conflict_urbanism_sp2021/images/brustlein_policeactivity.png)
+
+![time of death](/conflict_urbanism_sp2021/images/brustlein_cpted.png)
+
+add video here
+
+![time of death](/conflict_urbanism_sp2021/images/brustlein_keyplan.png)
+
+![time of death](/conflict_urbanism_sp2021/images/brustlein_site.png)
+
+![time of death](/conflict_urbanism_sp2021/images/brustlein_elements1.png)
+
+![time of death](/conflict_urbanism_sp2021/images/brustlein_elements2.png)
+
+![time of death](/conflict_urbanism_sp2021/images/brustlein_elements3.png)
+
+![time of death](/conflict_urbanism_sp2021/images/brustlein_elements4.png)
