@@ -52,7 +52,8 @@ Here we see Police activity at the intersection of Chicago Ave and 38th St where
 *source*
 
 
-add video here
+[![time of death](/conflict_urbanism_sp2021/images/brustlein_keyplan.png)](https://youtu.be/hcyJwVduC8I)
+
 
 
 ![time of death](/conflict_urbanism_sp2021/images/brustlein_keyplan.png)
