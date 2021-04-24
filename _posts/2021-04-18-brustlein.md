@@ -18,7 +18,7 @@ The built environment has been a constant character in the story of violence aga
 ![time of death](/conflict_urbanism_sp2021/images/brustlein_imagetrace.png)
 
 
-We contend that the spatial violence of defensive architecture, *CPTED measures*, along with historical racist land use controls such as racial covenants, and urban renewal projects such as highways, while not directly responsible for the death of George Floyd set the proverbial stage for his death.
+We contend that the spatial violence of defensive architecture, CPTED measures, along with historical racist land use controls such as racial covenants, and urban renewal projects such as highways, while not directly responsible for the death of George Floyd set the proverbial stage for his death.
 
 
 We contend that the spatial violence of defensive architecture, CPTED measures, along with historical racist land use controls such as racial covenants, and urban renewal projects such as highways, while not directly responsible for the death of George Floyd set the proverbial stage for his death.
@@ -26,24 +26,69 @@ We contend that the spatial violence of defensive architecture, CPTED measures, 
 
 **George Floyd lived and died in a place that was sterile and hostile to members of his community.**
 
+
 ![time of death](/conflict_urbanism_sp2021/images/brustlein_racialcovenants.png)
+*source*
+
+
+text here
+
 
 ![time of death](/conflict_urbanism_sp2021/images/brustlein_censusblock-01.png)
+*source*
+
+
+The area where George Floyd was killed is a very diverse area of the city. The site is situated on the border of four neighborhoods within the Powderhorn community. Although these neighborhoods are in close proximity of each other they have very different median household incomes.
+
 
 ![time of death](/conflict_urbanism_sp2021/images/brustlein_policeactivity.png)
+*source*
+
+
+Here we see Police activity at the intersection of Chicago Ave and 38th St where George Floyd was murdered. Our graphic shows the hyper police activity at the site of the George Floyd incident in contrast to other parts of the community. In light of understanding how the built environment heightens law enforcement activity, it was predictable to find data that shows that there are far more incidents reported to police at this intersection than the surrounding area.
+
 
 ![time of death](/conflict_urbanism_sp2021/images/brustlein_cpted.png)
+*source*
+
 
 add video here
 
+
 ![time of death](/conflict_urbanism_sp2021/images/brustlein_keyplan.png)
+
+
+text here
+
 
 ![time of death](/conflict_urbanism_sp2021/images/brustlein_site.png)
 
+
+text here
+
+
 ![time of death](/conflict_urbanism_sp2021/images/brustlein_elements1.png)
+
+
+text here
+
 
 ![time of death](/conflict_urbanism_sp2021/images/brustlein_elements2.png)
 
+
+text here
+
+
 ![time of death](/conflict_urbanism_sp2021/images/brustlein_elements3.png)
 
+
+text here
+
+
 ![time of death](/conflict_urbanism_sp2021/images/brustlein_elements4.png)
+
+
+text here
+
+
+*References*
