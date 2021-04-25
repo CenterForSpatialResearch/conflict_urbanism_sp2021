@@ -36,7 +36,7 @@ We contend that the spatial violence of defensive architecture, CPTED measures, 
 
 
 
-In the illustration above we have identified several deed restricted racial covenant properties in close proximity to the site where George Floyd was killed. Racial covenants were used to keep “undesirables" out of particular neighborhoods. Racist land controls such as these have been sited as a reason why minneapolis has one of the lowest rates of African-American homeownership in the nation. One can see the absurd and racist langauge covenants contained in an advertisement for property that was for sale in Minneapolis in 1919 the flyer states that these properties could not “be conveyed mortgaged or leased to any person or persons of Chinese, Japanese, Moorish, Turkish, Negro, Mongolian, Semitic or African blood or descent."
+In the illustration above we have identified several deed restricted racial covenant properties in close proximity to the site where George Floyd was killed. Racial covenants were used to keep “undesirables" out of particular neighborhoods. Racist land controls such as these have been sited as a reason why minneapolis has one of the lowest rates of African-American homeownership in the nation. One can see the absurd and racist langauge covenants contained in an advertisement for property that was for sale in Minneapolis in 1919 the flyer states that these properties could not “be conveyed mortgaged or leased to any person or persons of Chinese, Japanese, Moorish, Turkish, Negro, Mongolian, Semitic or African blood or descent." (Regents of the University of Minnesota, 2020)
 
 
 
@@ -59,7 +59,7 @@ The area where George Floyd was killed is a very diverse area of the city. The s
 
 We contend that the spatial violence of defensive architecture, CPTED measures, along with historical racist land use controls such as racial covenants, and urban renewal projects such as highways, while not directly responsible for the death of George Floyd set the proverbial stage for his death. George Floyd lived and died in a place that was sterile and hostile to members of his community.
 
-“CPTED is the proper design and effective use of the built environment that can lead to a reduction in the fear and incidence of crime and an improvement in the quality of life… The goal of CPTED is to reduce opportunities for crime that may be inherent in the design of structures or neighborhoods” Timothy D. Crowe, National Crime Prevention Institute
+“CPTED is the proper design and effective use of the built environment that can lead to a reduction in the fear and incidence of crime and an improvement in the quality of life… The goal of CPTED is to reduce opportunities for crime that may be inherent in the design of structures or neighborhoods” (Crowe, 1991)
 
 
 <div class="iframe-column"><iframe src="https://player.vimeo.com/video/541403996?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
@@ -68,16 +68,7 @@ We contend that the spatial violence of defensive architecture, CPTED measures, 
 Now we will take a closer look at the intersection in question 38th and Chicago.
 
 
-“The most effective areas for the Bancroft Neighborhood Association to consider implementing the physical change aspect of CPTED would be the commercial areas in and around the neighborhood. CPTED techniques should be implemented at the intersection of 38th and Chicago and at the Bloomington Avenue strip mall. A survey of residents has indicated that these are the areas that residents feel are most unsafe. Because there is little evidence to suggest that CPTED has an impact on crime rates, it should not be expected that the crime rate itself will drop significantly in these areas.”
-
-A report prepared for the Bancroft Neighborhood Association (BNA) Funded by, Neighborhood Planning for Community Revitalization (NPCR) with support from the Center for Urban and Regional Affairs (CURA) Minneapolis, Minnesota
-March, 1996
-
-Crime Prevention Through Environmental Design in the Bancroft Neighborhood  by Eric G. Phillips March, 1996
-
-“The areas they are most concerned about are on the peripheries of the neighborhood, most notably at the intersection of Chicago Avenue South and East 38th Street. Business owners also do not see crime as a large problem, although their customers, who sometimes come from all over the Twin Cities, do have negative perceptions about the area. One of the most frequently cited problems is absentee landlords who do not maintain their property.” Eric G. Phillips
-
-In 1996 a report was prepared for the Bancroft Neighborhood Association evaluating CPTED’s possible effectiveness in there community. Interestingly enough the report found that “many residents cited the intersection of Chicago Avenue and East 38th Street as an area they would feel uncomfortable being in at night. Yet the actual number of reported robberies that occurred in this area was quite low. Therefore efforts to combat vandalism and create more of an appearance of informal surveillance might be an effective means of reducing residents' fears about these areas.”
+“The most effective areas for the Bancroft Neighborhood Association to consider implementing the physical change aspect of CPTED would be the commercial areas in and around the neighborhood. CPTED techniques should be implemented at the intersection of 38th and Chicago and at the Bloomington Avenue strip mall. A survey of residents has indicated that these are the areas that residents feel are most unsafe. Because there is little evidence to suggest that CPTED has an impact on crime rates, it should not be expected that the crime rate itself will drop significantly in these areas.” (Phillips, 1996)
 
 
 
@@ -88,7 +79,7 @@ In 1996 a report was prepared for the Bancroft Neighborhood Association evaluati
 
 
 
-In 1996 a report was prepared for the Bancroft Neighborhood Association evaluating CPTED’s possible effectiveness in there community. Interestingly enough the report found that “many residents cited the intersection of Chicago Avenue and East 38th Street as an area they would feel uncomfortable being in at night. Yet the actual number of reported robberies that occurred in this area was quite low. Therefore efforts to combat vandalism and create more of an appearance of informal surveillance might be an effective means of reducing residents' fears about these areas.”
+In 1996 a report was prepared for the Bancroft Neighborhood Association evaluating CPTED’s possible effectiveness in there community. Interestingly enough the report found that “many residents cited the intersection of Chicago Avenue and East 38th Street as an area they would feel uncomfortable being in at night. Yet the actual number of reported robberies that occurred in this area was quite low. Therefore efforts to combat vandalism and create more of an appearance of informal surveillance might be an effective means of reducing residents' fears about these areas.” (Phillips, 1996)
 
 Here we see Police activity at the intersection of Chicago Ave and 38th St where George Floyd was murdered. Our graphic shows the hyper police activity at the site of the George Floyd incident in contrast to other parts of the community. In light of understanding how the built environment heightens law enforcement activity, it was predictable to find data that shows that there are far more incidents reported to police at this intersection than the surrounding areas.
 
@@ -100,7 +91,7 @@ Here we see Police activity at the intersection of Chicago Ave and 38th St where
 
 
 
-“The areas they are most concerned about are on the peripheries of the neighborhood, most notably at the intersection of Chicago Avenue South and East 38th Street. Business owners also do not see crime as a large problem, although their customers, who sometimes come from all over the Twin Cities, do have negative perceptions about the area. One of the most frequently cited problems is absentee landlords who do not maintain their property.” Eric G. Phillips
+“The areas they are most concerned about are on the peripheries of the neighborhood, most notably at the intersection of Chicago Avenue South and East 38th Street. Business owners also do not see crime as a large problem, although their customers, who sometimes come from all over the Twin Cities, do have negative perceptions about the area. One of the most frequently cited problems is absentee landlords who do not maintain their property.” (Phillips, 1996)
 
 
 
