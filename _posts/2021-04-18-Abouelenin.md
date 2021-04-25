@@ -24,6 +24,11 @@ Over the past few years we have witnessed a very distinct narrative being crafte
 ![description of image](/conflict_urbanism_sp2021/images/abouelenin_audioimage01.png)
 
 
+<iframe width="100%" height="300"
+        scrolling="no" frameborder="no"
+        src="https://soundcloud.com/alina-abouelenin/juan-audio-story/{STRING_ID}&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true">
+</iframe>
+
 <div class="iframe-column"><iframe src="https://soundcloud.com/brunomars/bruno-mars-anderson-paak-silk" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 
