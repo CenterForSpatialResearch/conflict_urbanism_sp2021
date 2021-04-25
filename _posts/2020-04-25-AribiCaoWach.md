@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2021-04-25
-image: "/conflict_urbanism_sp2021/images/BWRB/bwrb_thumbnail.png"
+image: "/conflict_urbanism_sp2021/images/BWRB/bwrb_thumbnail.jpg"
 title:  "Black, White, Red, & Blue: Representing the Black Electorate of Georgia, After Dubois"
 author: "Rousol Aribi, Will Cao, and Ian Wach"
 ---
@@ -84,6 +84,7 @@ Inverting this map, we see similar colocation between high percentages of white 
 #### The Flip Explained
 
 So we ask, what led to the flip?
+<br/><br/>
 
 ![What Led to the Flip?](/conflict_urbanism_sp2021/images/BWRB/014.png)
 <br/><br/>
@@ -233,6 +234,7 @@ Looking more specifically to changes done to the absentee and early voting proce
 6. There will also be a special paper requirement for ballots.
 7. This law now requires all 159 counties to have at least one dropbox, caps the number of boxes at one per 100,000 active voters or one for every early voting site, and moves them inside early voting sites instead of outside on government property.
 8. And, the drop boxes will only be accessible during early voting days instead of 24/7.
+<br/><br/>
 
 The law was primarily driven by conspiracy theories of voter fraud and election stealing. Even though these claims have been proven false in court, the GOP-dominated state legislature was able to pass the bill through both the house and senate then acquire the governor’s sign-off within two hours of the bill’s passing. Both local and federal officials strongly opposed the law. To this effect, Democrats at the national level introduced the For the People Act. Yet, this law will likely not be passed due to the Republican filibuster. This law is now being dubbed the ‘Jim Crow law of 2021’ due to the greater impacts it will have to black voters over white voters. The echoes of this legacy can be seen in the moments of the bill’s signing, where a room of white men, under a painting of a plantation, signed a bill that negatively affects black voters, all while a black state representative was arrested for knocking on the door.
 <br/><br/>
@@ -256,3 +258,8 @@ President Biden has called the new bill a “blatant attack on the constitution�
 <br/><br/>
 
 #### Works Cited
+
+
+<br/><br/>
+
+#### Image Credits
