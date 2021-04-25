@@ -6,17 +6,16 @@ title:  "Black, White, Red, & Blue: Representing the Black Electorate of Georgia
 author: "Rousol Aribi, Will Cao, and Ian Wach"
 ---
 
-![Black, White, Red, & Blue: Representing the Black Electorate of Georgia, After Dubois](/conflict_urbanism_sp2020/images/BWRB/001.png)
+![Black, White, Red, & Blue: Representing the Black Electorate of Georgia, After Dubois](/conflict_urbanism_sp2021/images/BWRB/001.png)
 
-![Georgia's Voting History](/conflict_urbanism_sp2020/images/BWRB/002.png)
+![Georgia's Voting History](/conflict_urbanism_sp2021/images/BWRB/002.png)
 
-![Dot Density Maps of Georgia Votes, 1992 & 2020](/conflict_urbanism_sp2020/images/BWRB/003.png)
+![Dot Density Maps of Georgia Votes, 1992 & 2020](/conflict_urbanism_sp2021/images/BWRB/003.png)
 
-![WEB Dubois and the 1900 Paris Exhibition (Courtesy of Wikimedia)](/conflict_urbanism_sp2020/images/BWRB/004.png)
+![WEB Dubois and the 1900 Paris Exhibition (Courtesy of Wikimedia)](/conflict_urbanism_sp2021/images/BWRB/004.png)
 
-![Plates from the 1900 Paris Exhibition (Courtesy of LOC)](/conflict_urbanism_sp2020/images/BWRB/005.png)
-
-![Quote from Dubois' The Souls of Black Folk 1903](/conflict_urbanism_sp2020/images/BWRB/006.png)
+![Plates from the 1900 Paris Exhibition (Courtesy of LOC)](/conflict_urbanism_sp2021/images/BWRB/005.png)
+![Quote from Dubois' The Souls of Black Folk 1903](/conflict_urbanism_sp2021/images/BWRB/006.png)
 
 -----------------------
 
