@@ -297,7 +297,7 @@ African American Photographs assembled for 1900 Paris Exposition: (n.d.). Retrie
 
 Formal photograph of W. E. B. Du Bois [Digital image]. (n.d.). Retrieved from https://en.wikipedia.org/wiki/W._E._B._Du_Bois#/media/File:WEB_DuBois_1918.jpg
 
-Minchillo, J. (n.d.). Capitol Riot [Digital image].
+Minchillo, J. (n.d.). Capitol Riot [Digital image]. https://www.vpr.org/post/vermont-whats-your-response-us-capitol-insurrection#stream/0
 
 Photograph of the Exhibit of the American Negroes at the Paris Exposition, 1900 [Digital image]. (n.d.). Retrieved from https://en.wikipedia.org/wiki/The_Exhibit_of_American_Negroes#/media/File:Exhibit_of_the_American_negroes_at_the_Paris_exposition.jpg
 <br/><br/>
