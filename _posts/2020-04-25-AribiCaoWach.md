@@ -259,7 +259,57 @@ President Biden has called the new bill a “blatant attack on the constitution�
 
 #### Works Cited
 
+Abrams, S. (n.d.). The Abrams Playbook. Retrieved from https://fairfight.com/wp-content/uploads/2019/09/TheAbramsPlaybook.pdf
 
+Bacon Jr, P. (2020, November 18). How Georgia turned blue. Retrieved April 25, 2021, from https://fivethirtyeight.com/features/how-georgia-turned-blue/
+Black voters in Georgia had the largest increase in registration since 2016. (2020, December 21). Retrieved April 25, 2021, from https://www.pewresearch.org/fact-tank/2020/12/21/black-latino-and-asian-americans-have-been-key-to-georgias-registered-voter-growth-since-2016/ft_2020-12-21_garegisteredvoters_01/
+
+Gallagher, D., & LeBlanc, P. (2021, March 30). Groups file second lawsuit challenging new Georgia voting law. Retrieved April 25, 2021, from https://www.cnn.com/2021/03/29/politics/georgia-second-lawsuit-voting-law/index.html
+
+Georgia election results. (2021, January 05). Retrieved April 25, 2021, from https://www.nytimes.com/interactive/2020/11/03/us/elections/results-georgia.html
+
+Green, E. (2020, November 13). What just happened in Georgia? Retrieved April 25, 2021, from https://www.theatlantic.com/politics/archive/2020/11/biden-win-georgia-democrats-senate-runoff/617001/
+
+Hart, R. (2021, March 04). House passes LANDMARK election reform bill to vastly Expand VOTING Access, bill now advances to senate. Retrieved April 25, 2021, from https://www.forbes.com/sites/roberthart/2021/03/04/house-passes-landmark-election-reform-bill-to-vastly-expand-voting-access-bill-now-advances-to-senate/?sh=4538edd03b09
+
+Herndon, A. (2020, December 07). The suburbs helped Elect BIDEN. can they GIVE Democrats the senate, too? Retrieved April 25, 2021, from https://www.nytimes.com/2020/12/07/us/politics/Atlanta-suburbs-runoff-Georgia.html
+
+Johnson, L. F. (2020, December 18). Breaking: Cobb REPUBLICANS attempt to get 16,024 Cobb County VOTERS declared ineligible for voting in THE runoffs. Retrieved April 25, 2021, from https://cobbcountycourier.com/2020/12/breaking-cobb-republicans-attempt-to-get-16024-cobb-county-voters-declared-ineligible/
+
+NYTimes Interactive. (2021, January 05).  Georgia election results. Retrieved April 25, 2021, from https://www.nytimes.com/interactive/2020/11/03/us/elections/results-georgia.html
+
+Noe-Bustamante, L., & Budiman, A. (2020, December 21). Black, Latino, Asian adults key to Georgia registered voter increase since 2016. Retrieved April 25, 2021, from https://www.pewresearch.org/fact-tank/2020/12/21/black-latino-and-asian-americans-have-been-key-to-georgias-registered-voter-growth-since-2016/
+
+Schaul, K., Stevens, H., & Keating, D. (2020, November 08). How Georgia became a swing state for the first time in decades. Retrieved April 25, 2021, from https://www.washingtonpost.com/elections/2020/11/08/georgia-swing-state-democrats/?arc404=true
+
+Shapiro, L., & Mayes, B. (2020, November 07). Exit poll results and analysis from Georgia. Retrieved April 25, 2021, from https://www.washingtonpost.com/elections/interactive/2020/exit-polls/georgia-exit-polls/
+
+Solender, A. (2021, March 26). Trump says New Georgia election LAW would've prevented his loss in the state. Retrieved April 25, 2021, from https://www.forbes.com/sites/andrewsolender/2021/03/26/trump-says-new-georgia-election-law-wouldve-prevented-his-loss-in-the-state/?sh=3785607f1b59
+
+Turton, W., & Gurman, M. (n.d.). Bloomberg.com. Retrieved April 25, 2021, from https://www.bloomberg.com/news/articles/2021-03-10/parler-cuts-ios-team-after-apple-blocks-return-to-app-store
+
+Wicker, J. (2021, March 27). Georgia's governor signed 'Jim CROW' voting bill under painting of a slave plantation. Retrieved April 25, 2021, from https://www.theguardian.com/us-news/2021/mar/27/georgia-governor-painting-slave-plantation-voting-bill-signing
 <br/><br/>
 
 #### Image Credits
+
+African American Photographs assembled for 1900 Paris Exposition: (n.d.). Retrieved April 25, 2021, from http://www.loc.gov/pictures/search/?st=grid&co=anedub
+
+Formal photograph of W. E. B. Du Bois [Digital image]. (n.d.). Retrieved from https://en.wikipedia.org/wiki/W._E._B._Du_Bois#/media/File:WEB_DuBois_1918.jpg
+
+Minchillo, J. (n.d.). Capitol Riot [Digital image].
+
+Photograph of the Exhibit of the American Negroes at the Paris Exposition, 1900 [Digital image]. (n.d.). Retrieved from https://en.wikipedia.org/wiki/The_Exhibit_of_American_Negroes#/media/File:Exhibit_of_the_American_negroes_at_the_Paris_exposition.jpg
+<br/><br/>
+
+#### Datasets
+
+Current and past elections results: Elections. (n.d.). Retrieved April 25, 2021, from https://sos.ga.gov/index.php/Elections/current_and_past_elections_results
+
+Owens, S. (2019, October 10). Education in Georgia’s Black Belt: Policy Solutions to Help Overcome a History of Exclusion. Retrieved April 25, 2021, from https://gbpi.org/education-in-georgias-black-belt/
+
+McDonald, K. (n.d.). Parler Metadata. Retrieved April 25, 2021, from https://gist.github.com/kylemcdonald/d8884da1a82ef50754ee49e0b6561071
+
+Voter registration statistics: Elections. (n.d.). Retrieved April 25, 2021, from https://sos.ga.gov/index.php/elections/voter_registration_statistics
+
+U.S. Census Bureau. ACS 2018 5-Year Estimates [dataset]. https://data.census.gov/
