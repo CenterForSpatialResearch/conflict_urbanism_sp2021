@@ -77,8 +77,8 @@ The term “Environmental Refugees” was first popularized by Lester Brown of t
 *Meyers & Kent (1995,18)*  
 
 Furthermore, El-Hinnawi describes three main types of environmental refugees
-1. Those temporarily dislocated due to disasters, whether natural or anthropogenic.
-**1. Those permanently displaced due to drastic environmental changes, such as the construction of dams**
+1. Those temporarily dislocated due to disasters, whether natural or anthropogenic.  
+1. **Those permanently displaced due to drastic environmental changes, such as the construction of dams**  
 1. Those who migrate based on the gradual deterioration of environmental conditions.  
 
 Unlike the term “refugee” which has been internationally recognized during the 1951 UN convention, the categorization of *“Environmental Refugees”* has been contested and to date has no legal standing.  Internally Displaced Persons (IDP) are explicitly excluded as refugees, since refugees lack protection from their state and therefore seek international aid. In some cases “Environmentally Displaced People” may seek protection from their state (Westra, 2009). The Marsh Arabs were both internally displaced within Iraq, or were moved to refugee camps in Iran. The significance of a legal definition for the displacement of the Marsh Arabs, was important in order to gain international aid, since they lacked the protection of the state. 
