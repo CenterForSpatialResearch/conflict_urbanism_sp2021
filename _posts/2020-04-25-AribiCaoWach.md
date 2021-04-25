@@ -98,141 +98,159 @@ Georgia’s voter population overall is changing. We see in 2000 that the white 
 ![Increase in Registration](/conflict_urbanism_sp2021/images/BWRB/017.png)
 ![Demographics of the Vote](/conflict_urbanism_sp2021/images/BWRB/018.png)
 <br/><br/>
-<br/><br/>
 
 Relative to population, if we look closer into 2016 to 2020, we can see that the Black voters had the largest increase in registration, about 130 thousand more in 2020 than 2016.
 
 Looking into votes cast by race from 2014 - 2020, we see a decline in white votership. In 2014, 67 percent and in 2020 61 percent of votes were cast by white voters.
 <br/><br/>
 
+![Voting Margins 2020 & 2016](/conflict_urbanism_sp2021/images/BWRB/020.png)
 ![Why Biden won in Georgia](/conflict_urbanism_sp2021/images/BWRB/019.png)
+<br/><br/>
+
+Looking into those counties and the marginal change from 2016 to 2020, we selected the countries with the highest marginal shift and were on the cusp of blue in 2016 but much stronger blue in 2020; Rockdale, Henry, and Cobb.
+
+*Note, no county in Georgia made the flip from red to blue or vise versa. Instead, counties that were on edge of being strong blue or strong red cemented the change in 2020.*
 <br/><br/>
 
 #### The Flip in Context
 
+Cobb is directly northwest of Atlanta, while Rockdale and Henry are towards the southeast. As we will see later on, there are very different demographic makeups between Northern and Southern Atlanta.
+<br/><br/>
+
+![Rockdale, Henry, and Cobb](/conflict_urbanism_sp2021/images/BWRB/021.png)
+![Rockdale, Henry, and Cobb](/conflict_urbanism_sp2021/images/BWRB/023_1.png)
+![Rockdale, Henry, and Cobb](/conflict_urbanism_sp2021/images/BWRB/023_2.png)
+<br/><br/>
+
+What makes the increasing percentage of democratic voters in Suburban Atlanta so striking is that it was also the birthplace of a different movement.
+<br/><br/>
+
+![Atlanta Suburbs](/conflict_urbanism_sp2021/images/BWRB/022.png)
+<br/><br/>
+
+#### Cobb County
+
+Cobb County is predominantly white, especially as you move further from Atlanta, but it still has a substantial black population. It is the most educated and highest-earning county in GA.
+
+Cobb County is the most heavily developed of the three counties we examined. It is primarily suburban, and the south of the county touches the City of Atlanta, so it has a much more urban context. In addition, in the center of the county is (1) Marietta, the fourth largest city in the Atlanta Metro with 60K people which abuts the (2) Kennesaw Mountain National Battlefield. To the northwest are (3) smaller cities of Kennesaw and Acworth with combined pop of over 50K. There is one voting center for every 3,754 registered voters, the most we saw out of the three counties.
+<br/><br/>
+
+![Cobb County](/conflict_urbanism_sp2021/images/BWRB/024.png)
+![Cobb County](/conflict_urbanism_sp2021/images/BWRB/025.png)
+<br/><br/>
+
+In the 80s and 90s, the county developed a reputation as a conservative stronghold. In 2016, Hillary Clinton became the first Democrat to win Cobb County since Jimmy Carter and the first non-Georgian Democrat since John F. Kennedy. In 2018, Stacey Abrams became the first Democrat to win Cobb County in a gubernatorial election since 1986.
+
+We looked into the demographic shifts over the last 20 years. Notice the shrinking white majority.
+While the county has moved further to the leftover time, there were moments where the political apparatus has attempted to use voter suppression to change the outcomes, such as a challenge by Cobb County Republicans to remove 16,024 voters from eligibility in the runoff election.
+<br/><br/>
+
+![Cobb County](/conflict_urbanism_sp2021/images/BWRB/026.png)
+![Cobb County](/conflict_urbanism_sp2021/images/BWRB/027.png)
+<br/><br/>
+
+In the turmoil surrounding the election defeat of Donald Trump, the chairman of the Cobb County Republicans challenged the election results in an attempt to remove 16,024 Cobb County voters from eligibility to vote in the runoff election for both Georgia senators. The county Board of Elections held a hearing to decide whether there was probable cause to move forward with hearings for each name on the list. The board voted unanimously to deny the challenge.
+<br/><br/>
+
+#### Rockdale County
+
+Rockdale is a predominantly suburban and rural county, with Conyers being both the county seat and the only city with a population of 16K. Rockdale County is in southern Atlanta, where there is a demographic shift from majority white to majority black. There is one voting center for every 4,296 registered voters.
+<br/><br/>
+
+![Rockdale County](/conflict_urbanism_sp2021/images/BWRB/028.png)
+![Rockdale County](/conflict_urbanism_sp2021/images/BWRB/029.png)
+<br/><br/>
+
+In the most recent elections, Democrats have made substantial additional gains in Rockdale, with Senate Democrats winning by 72% in the 2020 Runoffs.
+On the other hand, Rockdale is still playing catchup with its more diverse present. For example, the monument honoring Rockdale County's Confederate soldiers, which was placed at the corner of the county courthouse on Main Street on April 26, 1913, was recently taken down in June of 2020, just over 107 years later.
+<br/><br/>
+
+![Rockdale County](/conflict_urbanism_sp2021/images/BWRB/030.png)
+![Rockdale County](/conflict_urbanism_sp2021/images/BWRB/031.png)
+<br/><br/>
+
+Looking at the demographic trends over the last 20 years, we see a dramatic reversal from a white majority to a black majority. This has led to impacts on local political elections, such as the dramatic shift that occurred in 2012.
+<br/><br/>
+
+#### Henry County
+
+Henry County is primarily suburban, especially to the north, while the southern part of the county is more rural. McDonough is the county seat, with a population of 24K
+
+From the center, there is an increased level of development as you move northwest towards Atlanta. In Henry county, there is one voting center for every 4,600 registered voters, which is the worst of the three counties.
+<br/><br/>
+
+![Henry County](/conflict_urbanism_sp2021/images/BWRB/032.png)
+![Henry County](/conflict_urbanism_sp2021/images/BWRB/033.png)
+<br/><br/>
+
+Henry County became a Republican stronghold from 1984 to 2004. Strong margins in Henry County and other Atlanta suburbs were vital to Republicans' performance, offsetting strongly Democratic Black voters in Atlanta proper.
+<br/><br/>
+
+![Henry County](/conflict_urbanism_sp2021/images/BWRB/034.png)
+![Henry County](/conflict_urbanism_sp2021/images/BWRB/035.png)
+<br/><br/>
+
+In 2016, the county swung into the Democratic column, voting for Hillary Clinton by a 4.36% margin of victory for the first time in 36 years. In 2020, it swung 16.11% deeper into the Democratic column, the largest Democratic swing of any county in the country. Demographic shifts over the last 20 years point to another dramatic reversal in white and black populations. These population changes helped to create the single biggest Democratic swing in a county in the 2020 election.
+<br/><br/>
+
+#### The Aftermath
+
+Now we examine the aftermath of the 2020 election. Georgia did have a runoff election held on January 5th, and the very next day the capitol insurrection occurred. We wanted to see how Georgia factored into these events
+<br/><br/>
+
+![Aftermath](/conflict_urbanism_sp2021/images/BWRB/036.png)
+<br/><br/>
+
+>Parler: a social media platform, similar to Twitter. Significant due to the number of individuals who participated in the capital riot events and were also involved with the right-wing following on the platform. The app was later blocked on the Apple app store due to the events at the capital.
+
+*-- Bloomberg*
+
+Looking into Parler data, we mapped out insurrection video uploads by county and found that residents from all our target counties had participated:
+
+- Cobb had 116 uploads
+- Henry had 32 uploads
+- Rockdale had 15 uploads
+
+In spite of large and deepening democratic swings in all three counties, we still found significant insurrection participation in each. This demonstrates the persistence of conservative factions in these counties who are deeply resentful over the election results. Given the conservative hold over state politics, the implications can be found in the new SBS 202 law mentioned previously.
+<br/><br/>
+
+![Parler Data](/conflict_urbanism_sp2021/images/BWRB/037.png)
+<br/><br/>
+
+To better understand the impacts of the new law, we look at how each party voted in 2020. We found a large utilization of absentee ballots and early voting across both parties, however, more Republicans voted on election day and more Democrats voted by mail. This was due largely to Covid, but the effects of these percentages were clearly felt and the results show in the new SBS 202 law where many changes have been made to absentee voting and early voting.
+<br/><br/>
+
+![Aftermath](/conflict_urbanism_sp2021/images/BWRB/036.png)
+<br/><br/>
+
+Looking more specifically to changes done to the absentee and early voting process as a result of the new voter law:
+1. The earliest voters can request a mail-in ballot will be 11 weeks before an election instead of 180 days — less than half the original timeframe.
+2. Instead of returning an application by the Friday before election day, it now backs it up to two weeks.
+3. Counties will also begin mailing out absentee ballots about three weeks later than before, starting four weeks before the election instead of seven.
+4. Requesting and returning a ballot will require new ID rules.
+5. State and local governments are no longer allowed to send unsolicited applications, and third-party groups that send applications will be fined.
+6. There will also be a special paper requirement for ballots.
+7. This law now requires all 159 counties to have at least one dropbox, caps the number of boxes at one per 100,000 active voters or one for every early voting site, and moves them inside early voting sites instead of outside on government property.
+8. And, the drop boxes will only be accessible during early voting days instead of 24/7.
+
+The law was primarily driven by conspiracy theories of voter fraud and election stealing. Even though these claims have been proven false in court, the GOP-dominated state legislature was able to pass the bill through both the house and senate then acquire the governor’s sign-off within two hours of the bill’s passing. Both local and federal officials strongly opposed the law. To this effect, Democrats at the national level introduced the For the People Act. Yet, this law will likely not be passed due to the Republican filibuster. This law is now being dubbed the ‘Jim Crow law of 2021’ due to the greater impacts it will have to black voters over white voters. The echoes of this legacy can be seen in the moments of the bill’s signing, where a room of white men, under a painting of a plantation, signed a bill that negatively affects black voters, all while a black state representative was arrested for knocking on the door.
+<br/><br/>
+
+> “I was proud to sign S.B. 202 to ensure elections in Georgia are secure, fair, and accessible. I appreciate the hard work of members of the General Assembly to make it easy to vote and hard to cheat.”
+Governor Kemp’s Twitter
+
+*-- Governor Kemp’s Twitter*
+<br/><br/>
+
+#### Conclusion
+
+The 2020 election and the respected outcome in Georgia played a larger role in the new voter laws coming out in 2021. We see similar laws passing in many GOP strong states and states where the GOP was once the majority party. All in all, 361 new voter laws have been introduced in 47 states as of March 2021 that aim to control future voter outcomes. This goes to show that the event of 2020 and the outcomes of Georgia voter history are gleaming a future that is riddled with measures to ensure voter control again.
+
+We witnessed just a day after the Georgia runoff election in January the events of the U.S. Capital Insurrection. Those involved have been linked to far-right activities and engagements and Trump’s sentiments of a “rigged” and “travesty of a 2020 Presidential election”. Former President Trump tweeted in support of Georgia’s GOP amid the passing of the Election Integrity Act of 2021.
+
+President Biden has called the new bill a “blatant attack on the constitution” and is urging Congress to pass the Democrats For The People Act which would bring “about some of the most significant changes to U.S. voting law in decades” and would reserve many of the changes coming as a result of Georgia’s Election Integrity Act of 2021.
+
 -----------------------
 
-This document contains instructions for how to create a page on this website.
-
-The template for this website was developed by the [Columbia Center for Spatial Research](c4sr.columbia.edu) (CSR) based on the Minima [Jekyll](https://jekyllrb.com/) theme in order to facilitate creating collaborative student publications in our seminars each year.
-
-This document is written as a tutorial for students taking courses that use this template to produce a collaborative web publication.
-
-It will walk you through how to compose a post using a simple markup language called markdown. And then how to upload it to this website which is hosted on GitHub.
-
-The class website you will collectively contribute to is built using a static site generator called [Jekyll](https://jekyllrb.com/). For more on what Jekyll is or how to use it to build your own website please refer to this great tutorial from the [Programming Historian](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages).
-For more information on how the CSR template is set up please see the README [here](/README.md).
-
-This tutorial accomplishes two things:
-  - you will become familiar with editing and composing documents using markdown syntax.
-  - you will create a template document for your final project that you can edit in order to publish your final project.
-
-
-#### Before you begin
-**Create a GitHub Account**  
-1. visit [github.com](https://github.com/) and sign up for a Github account if you do not already have one
-2. ask to be added as a contributor to the repository for your class's website if you are not already
-**Download and install the text editor of your choice**
-1. to create your post you will compose a plain text document. To do this you can use Notepad on Windows or Text Editor on Mac, however there are a number of great text editors out there that will help make things easier. [Atom](https://atom.io/) or [Sublime Text](https://www.sublimetext.com/) are two good options. Download and install one of these if you would like.
-
-#### Step 1: familiarize yourself with the structure of the site
-1. in a browser open both the GitHub repository and the class website (your professor should have given you links to both). The two pages will look something like this:
-![screenshot of repository and class website]
-1. this GitHub repository is currently hosting a simple website. If you have already been added as a collaborator to the repository, click on the repository's `Settings` and scroll down to the `GitHub Pages` section locate the URL of the site. Or ask the owner of the repository to send you the link. Navigate to this website to take a look at it.
-2. the simple website you just visited above is being hosted by this repository. Scroll up to look at the structure of the folders and files. Key things to note here:
-    - the `_includes`, `_layout`, `_sass`, and `assets` folders contain the files that define the CSR template. You will not need to change any files inside these folders
-    - the `images` folder is where any images that you include in the website should be placed
-    - the `_posts` folder is what contains the markdown files that will become individual pages on the website.
-
-#### Step 2: compose a new post
-1. open the `_posts` folder. Each page on the website is made by producing a new file in the `_posts` folder of the repository.
-2. open one of the `.md` files and select `Raw` which will allow you to view the unformatted file
-3. this is written in markdown, and has a special header which is used by the template to (1) format the page's title & author, (2) populate the homepage of the site with an image, and title. The header looks something like this:
-          ```
-          ---
-          layout: post
-          date:   2020-01-01
-          image: "/your-site-name/images/csr_thumbnail.png"
-          title:  "Template Post: Title of Your Final Project"
-          author: "Names Of Everyone In Your Group"
-          ---
-          ```
-4. the body of the post has sample text showing the simple markdown syntax. [This webpage](https://guides.github.com/features/mastering-markdown/) is also a good resource as it provides a comprehensive guide to markdown syntax
-5. open the text editor of your choice (we suggest either [Atom](https://atom.io/) or [Sublime Text](https://www.sublimetext.com/), download one of these if you haven't already)
-6. create a new empty file in your text editor
-7. **Copy** all of the raw markdown from `.md` file in this repository and **paste** it in to this empty file.
-8. Save the file in the following format `2020-01-03-lastname.md`
-9. once you save the file your text editor will recognize you are writing in markdown and will start highlighting the special syntax of this language:
-![syntax highlight]
-10. now we will edit this file to get familiar with how to write in markdown
-11. edit the document's header (the area highlighted in a magenta dashed line above).
-    - layout should stay labeled as post: `layout: post`
-    - change the date to today's date
-    - leave the image as-is for now
-    - change the title to your uni:  `title:  "xyz2222"`
-    - change the author to your name: `author: "Jane Adams"`
-
-12. edit the document to practice formatting text and including links. Write in the document so you have:
-    - a paragraph of text (use your final project proposal)
-    - a word in bold,
-    - a word in italics
-    - a link to the github repository for the tutorials for this class
-    - (optional) an iframe with the webmap you created in tutorial 4 or 5 embedded
-
-13. embed an image in your post. This is a two step process
-**Step one:** you must upload your image to a folder in the class website Github repository.
-**Step two:** you must link to that image from within your post.
-
-    1. find an image that is in the [public domain](https://en.wikipedia.org/wiki/Public_domain) or for which you have image rights.  
-    2. save the image with a reasonable file name (you might as a class want to decide on a convention here like `lastname_description.jpg`)
-    3. upload the image to the `images` folder in the Github repository for your site
-    ![image upload]
-    4. After dragging the image file you have chosen into the uploader, enter a descriptive caption for your commit, and select `Commit Changes`
-    5. Check the folder to verify that the image was uploaded
-**Now we'll embed the image in to the body of your post.**
-    1. You'll use the following syntax:  `![description of image](/your-site-name/images/lastname_description.jpg)` replace `your-site-name` with the name of the repository for the site, and replace `lastname_description.jpg` with the file name of the image you just uploaded
-    - note: the information between the [ ] contains a description of the image that gets used by screen readers to make your website more accessible
-    - the information in the () contains the path to the image within our website
-      **Note** the file path must start with a `/` i.e. it must be something like `/your-site-name/images/` if you do not include the `/` then the link will not work.
-14. save your post
-15. now replace the thumbnail image that appears on the course website landing page. This image, currently a placeholder, is defined in the header of your post. To change it you will need to first choose and upload an image, and then change the link in the yaml header
-
-    1. choose an image that is representative of your project, crop it to have a **square** aspect ratio that is at least 300px wide
-
-    2. just like you did in step 13 above upload this image to the `images` folder
-
-    3. update the yaml header of your post, replace the path in the `image` field to match the repository name and file name of the square image you just uploaded to github. Just like above, replace `your-project-name` with the name of your site's repository, and replace `lastname_description2.png` with the name of the square image you just uploaded:
-    ```
-    ---
-    layout: post
-    date:   2019-03-20
-    image: "/your-project-name/images/lastname_description2.png"
-    title:  "Provisional Title of Your Final Project"
-    author: "Names Of Everyone In Your Group"
-    ---
-    ```
-16. **Save your post**
-
-#### Step 3: upload your post to the repository
-Now we will `commit` this new post to the group repository which will mean that is becomes visible on the group website.
-
-1. navigate to the `_posts` folder of the repository. And select `Upload Files`. Drag the markdown file containing your post to the window. Write a commit message, and commit your post
-2. wait 1-2 minutes, then visit/refresh the class website URL. Your post should have appeared
-
-#### Step 4: making changes to/editing your post
-To update your post after you have made changes to your markdown file in your text editor:
-1. Navigate to the `_posts` folder in the repository
-
-2. Select `Upload Files` as you did in step 3 above. **Note: make sure that you did not change the name of your file**. Drag the markdown file containing your post into the window. Write a commit message and commit your post
-
-3. Wait 1-2 minutes, then visit/refresh the class website URL. The updates to your post should have appeared
-
-______________________________________________________________________________________________________________
-
-
-Tutorial written by Dare Brawley, for *Conflict Urbanism: Puerto Rico Now*, a spring 2019 seminar offered by the [Center for Spatial Research](http://c4sr.columbia.edu). More information about the course is available [here](http://c4sr.columbia.edu/courses/conflict-urbanism-puerto-rico-now).
-
-
-[syntax highlight]: tutorial_img/tutorial_1_syntax_highlight.png
-[image upload]: tutorial_img/tutorial_2_image_upload.png
-[screenshot of repository and class website]: tutorial_img/tutorial_0_twosites.png
+#### Works Cited

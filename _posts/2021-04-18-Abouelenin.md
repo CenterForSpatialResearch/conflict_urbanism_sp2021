@@ -21,34 +21,14 @@ Over the past few years we have witnessed a very distinct narrative being crafte
 ![Narrative Map of Transnationalism across the US-Mexican Border told through the stories of three different family network](/conflict_urbanism_sp2021/images/abouelenin_map_2.jpg)
 
 
-![description of image](/conflict_urbanism_sp2021/images/abouelenin_audioimage01.png)
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1036515433&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-698238591" title="CSR Columbia" target="_blank" style="color: #cccccc; text-decoration: none;">CSR Columbia</a> · <a href="https://soundcloud.com/user-698238591/listen-to-juan" title="Listen to Juan" target="_blank" style="color: #cccccc; text-decoration: none;">Listen to Juan</a></div>
 
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1036515820&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-698238591" title="CSR Columbia" target="_blank" style="color: #cccccc; text-decoration: none;">CSR Columbia</a> · <a href="https://soundcloud.com/user-698238591/listen-to-david" title="Listen to David" target="_blank" style="color: #cccccc; text-decoration: none;">Listen to David</a></div>
 
 
-<iframe width="100%" height="300"
-        scrolling="no" frameborder="no"
-        src="https://soundcloud.com/alina-abouelenin/juan-audio-story/{STRING_ID}&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true">
-</iframe>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1036516084&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-698238591" title="CSR Columbia" target="_blank" style="color: #cccccc; text-decoration: none;">CSR Columbia</a> · <a href="https://soundcloud.com/user-698238591/listen-to-benito" title="Listen to Benito" target="_blank" style="color: #cccccc; text-decoration: none;">Listen to Benito</a></div>
 
-
-![description of image](/conflict_urbanism_sp2021/images/abouelenin_audioimage04.png)
-
-
-<script src="https://soundcloud.com/alina-abouelenin/juan-audio-story"></script> <script> SC.initialize({   client_id: '307387559' });
-<div class="iframe-column"><iframe src="https://soundcloud.com/alina-abouelenin/juan-audio-story" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
-
-
-![description of image](/conflict_urbanism_sp2021/images/abouelenin_audioimage01.png)
-
-
-<div class="iframe-column"><iframe src="https://soundcloud.com/brunomars/bruno-mars-anderson-paak-silk" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
-
-
-![description of image](/conflict_urbanism_sp2021/images/abouelenin_audioimage03.png)
-
-
-<div class="iframe-column"><iframe src="https://soundcloud.com/brunomars/bruno-mars-anderson-paak-silk" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 
 
