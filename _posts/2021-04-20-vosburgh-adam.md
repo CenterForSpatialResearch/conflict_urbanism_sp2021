@@ -6,17 +6,16 @@ title:  "Food Scarcity in the Hudson Valley"
 author: "Henry Black, Gizem Karagoz, Caroline Maxwell, Adam Vosburgh"
 ---
 
-#### **Food Insecurity in the Hudson Valley**  
+#### **Food as Soft Power:**  
+# The Collapse of Corporate Infrastructure and the Resilience of Local Systems in the Hudson Valley  
 
 ![Hudson Valley Farms](/conflict_urbanism_sp2021/images/FoodScarcity/images/CoverImage.jpeg)
 
-While food can transcend cultural boundaries, it is also a site of conflict. Our research focuses on the superfluous nature of corporate supply chains and why food becomes increasingly vulnerable the further it travels from its source. We hope to reveal broader systemic fractures in our food system through examining infrastructures' role in exacerbating food insecurity in the Hudson Valley during the Covid-19 pandemic. Why does a food desert exist in such an agriculturally wealthy region? What are methods for creating food sovereignty? How is food being utilized as a tool of soft power?  
+While food can transcend cultural boundaries, it is also a site of conflict. This research focuses on the superfluous nature of corporate supply chains. In this study, the broader systemic fractures of the food system are revealed through the examination of corporate infrastructures' role in exacerbating food insecurity in the Hudson Valley during the COVID-19 pandemic.  
 
-In investigating the Hudson Valley's local struggles, we hope to reveal broader systemic fractures within the US food system. Our government has prioritized capital over sustainability, and we are now seeing the repercussions of that prioritization in climate change, food insecurity, and environmental degradation. The COVID-19 pandemic has further illuminated how fragile we are as a species and provided a window to reflect and reorient our relationship with the world. What can food teach us about recovering from the pandemic and evolving as a species? In what ways does food infrastructure conceptually and physically perform in the staging of capitalist narratives?   
+## Food Insecurity  
 
-#### Food Insecurity  
-
-Food insecurity refers to the USDA's measure of access to enough food for all household members to have an active, healthy life. This may reflect a family's need to make trade-offs between essential basic needs, such as housing or medical bills, and purchasing nutritionally adequate foods. The pandemic has exacerbated the patterns of vulnerability that cause food insecurity. As schools closed and people lost their jobs, meals became increasingly difficult to afford.  
+Food insecurity is defined as a lack of consistent access to enough food for every person in a household to live an active, healthy life. This can be a temporary situation for a household or can last a long time. The coronavirus pandemic has compounded the patterns of vulnerability that cause food insecurity as schools closed and people lost their jobs.   
 
 <div class="iframe-column"><iframe src="https://akv2118.github.io/ConflictUrbSp2021/COVIDmap/index.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
 This map will illustrate food insecurity rates pre/post covid once the data is released from Feeding America Foundation this week.   
@@ -25,22 +24,24 @@ This map will illustrate food insecurity rates pre/post covid once the data is r
 
 ![Infrastructure Diagram](/conflict_urbanism_sp2021/images/FoodScarcity/images/diagramPlaceholder2.png)  
 
-Infrastructure networks facilitate the flow of goods and allow for their exchange over space. They are the foundation of the production, processing, storage, distribution, retailing, consumption, and waste management of food within a broader system. These systems simultaneously reveal forms of political rationality that shape their terms of access. While food infrastructures promise development and stability, their breakdowns reveal unsustainable notions of progress and economic growth. The tension between promise and failure makes infrastructure a productive site for analysis.  
+Infrastructure networks facilitate the flow of goods and allow for their exchange over space. These systems simultaneously reveal forms of political rationality that shape their terms of access. While food infrastructures promise development and stability, their breakdowns reveal unsustainable notions of progress and economic growth. The tension between promise and failure makes infrastructure a productive site for analysis.  
 
-This diagram illustrates how food becomes increasingly vulnerable the further it travels from its source. It illustrates the apparatuses of infrastructural dependency embedded within our food systems. A select few corporations have monopolized these networks, so when one fails, the ripple effects are felt throughout the country. This is why most food has to travel at least 100 miles to be stocked right next to its source in Ulster County. 
-In contrast, shorter food chains are being established, such as CSAs, farmers markets, and food banks. Our research looks further into these grassroots organizing efforts as infrastructural forms of resistance which are fundamental to Hudson Valley’s food supply chain.  
+This diagram illustrates the increasing vulnerability of food the further it travels from its source and the apparatuses of infrastructural dependency embedded within food systems. A select few corporations have monopolized these networks, so when one fails, the ripple effects are felt throughout the country. This is the reason why most food has to travel at least 100 miles to be stocked right next to its source in Ulster County.  
 
-#### Apple Case Study  
+In contrast, short food chains are being established, such as community supported agriculture, farmers markets, and food banks. This following research looks further into these grassroots organizing efforts and their fundamental role in the Hudson Valley’s food supply chain. 
+
+
+## Apple Case Study  
 
 ![Apple Case Study](/conflict_urbanism_sp2021/images/FoodScarcity/images/applesToapples1.png)  
 
-For example, here is a case study that compares two apples purchased in Kingston, NY. One from Walmart and one from the local farmers market.  
+For example, here is a case study that compares two apples purchased in Kingston, New York. One is from Walmart, and the other is from the local farmers market. The vast difference in mileage required to produce the same apple in Kingston demonstrates the excessive nature of corporate supply chains. 
 
-#### Ulster County  
+## Ulster County  
 
 <div class="iframe-column"><iframe src="https://akv2118.github.io/ConflictUrbSp2021/Ulster-Map/index.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
 
-#### Kingston  
+## Kingston  
 
 <div class="iframe-column"><iframe src="https://akv2118.github.io/ConflictUrbSp2021/Kingston-Map/index.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
 
@@ -72,6 +73,6 @@ A primary orchard that sells its produce at Kingston Farmers market is Maynard f
 
 This is a placeholder but we would like to make an attempt at calculating embodied carbon, energy, water, and labor in our apples.  
  
-#### Forms of Resistance  
+## Forms of Resistance  
 
 Need some stuff here.
