@@ -15,7 +15,7 @@ This narrative map considers the topic, Conflict Urbanism, through the lens of t
 Over the past few years we have witnessed a very distinct narrative being crafted under the Trump administration, where border control and hostile immigration policies became a vital aspect of the presidential campaign. Yet, even before Trump took office, Mexican migration has been declining, with more Mexican immigrants returning to Mexico voluntarily than coming into the US (Council on Foreign Relations 2021; Gonzalez-Barrera 2020), indicating a trend of reverse migration taking place.  From 2010 to 2018, the US undocumented population declined by a total of 2.6 million, due to many returning back to Mexico (Warren 2020). Curiously, around the same time that Mexican migration has been declining, the amount of remittances from the US to Mexico has steadily been increasing and in 2020, with remittances around the world suffering a massive hit due to Covid-19 impacts, Mexico has reached an all-time record with almost $40 billions of remittances being sent back to Mexico, approximately equal to 4 percent of Mexico’s GDP (Federal Reserve 2020). Flows from the US to Mexico have grown to become the single largest bilateral transfer of remittances in the world. Between 2014 and 2017 alone, the corridor grew by 42.7% from $24 billion to $34.70 billion in 2017 (FinsMe 2020).
 
 
- These trends, as interesting as they are, remain just that – trends and numbers. The goal of this project was to create a human driven narrative map that would explore the topics of remittances and migration from a different perspective - one that gives the data and numbers, names and stories. What are some of the anecdotal reasons why Mexicans left for the US? How do they explain the increasing number of remittances being sent back? Why are they choosing to return back to Mexico? Through field work conducted in Sunset Park, New York and a series of interviews, an intricate narrative unfolded of family networks across the border. These are demonstrated in the map below as well as the audio pieces at the end. 
+ These trends, as interesting as they are, remain just that – trends and numbers. The goal of this project was to create a human driven narrative map that would explore the topics of remittances and migration from a different perspective - one that gives the data and numbers, names and stories. What are some of the anecdotal reasons why Mexicans left for the US? How do they explain the increasing number of remittances being sent back? Why are they choosing to return back to Mexico? Through field work conducted in Sunset Park, New York and a series of interviews, an intricate narrative unfolded of family networks across the border. These are demonstrated in the map below, as well as the audio pieces at the end. 
 
 
 ![Narrative Map of Transnationalism across the US-Mexican Border told through the stories of three different family network](/conflict_urbanism_sp2021/images/abouelenin_finalmap.jpg)
@@ -28,8 +28,6 @@ Over the past few years we have witnessed a very distinct narrative being crafte
 
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1036516084&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-698238591" title="CSR Columbia" target="_blank" style="color: #cccccc; text-decoration: none;">CSR Columbia</a> · <a href="https://soundcloud.com/user-698238591/listen-to-benito" title="Listen to Benito" target="_blank" style="color: #cccccc; text-decoration: none;">Listen to Benito</a></div>
-
-
 
 
 #### Citations
@@ -62,7 +60,7 @@ Warren, Robert. “Reverse Migration to Mexico Led to US Undocumented Population
 
 
 
-Data Sources
+#### Data Sources
 
 [Migration Policy Institute](https://www.migrationpolicy.org/programs/data-hub/charts/mexican-born-population-over-time).
 
