@@ -6,8 +6,7 @@ title:  "Food as Soft Power"
 author: "Henry Black, Gizem Karagoz, Caroline Maxwell, Adam Vosburgh"
 ---
 
-#### **Food as Soft Power:**  
-# The Collapse of Corporate Infrastructure and the Resilience of Local Systems in the Hudson Valley  
+#### The Collapse of Corporate Infrastructure and the Resilience of Local Systems in the Hudson Valley  
 
 ![Hudson Valley Farms](/conflict_urbanism_sp2021/images/FoodScarcity/images/CoverImage.jpeg)
 
