@@ -16,7 +16,7 @@ While food can transcend cultural boundaries, it is also a site of conflict. Thi
 
 Food insecurity is defined as a lack of consistent access to enough food for every person in a household to live an active, healthy life. This can be a temporary situation for a household or can last a long time. The coronavirus pandemic has compounded the patterns of vulnerability that cause food insecurity as schools closed and people lost their jobs.   
 
-<div class="iframe"><iframe src="https://akv2118.github.io/ConflictUrbSp2021/COVIDmap/index.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
+<div class="iframe-column"><iframe src="https://akv2118.github.io/ConflictUrbSp2021/COVIDmap/index.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
 This map will illustrate food insecurity rates pre/post covid once the data is released from Feeding America Foundation this week.    
 
 ![Infrastructure Diagram](/conflict_urbanism_sp2021/images/FoodScarcity/images/diagramPlaceholder2.png)  
