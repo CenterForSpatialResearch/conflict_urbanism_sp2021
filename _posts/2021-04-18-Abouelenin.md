@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2021-04-18
-image: "/conflict_urbanism_sp2021/images/abouelenin_audioimage02.png"
+image: "/conflict_urbanism_sp2021/images/abouelenin_audioimage04.png"
 title:  "Transnationalism across the US-Mexican Border"
 author: "Alina Abouelenin"
 ---
@@ -26,18 +26,23 @@ Over the past few years we have witnessed a very distinct narrative being crafte
 
 
 
-
 <iframe width="100%" height="300"
         scrolling="no" frameborder="no"
         src="https://soundcloud.com/alina-abouelenin/juan-audio-story/{STRING_ID}&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true">
 </iframe>
 
 
-![description of image](/conflict_urbanism_sp2021/images/abouelenin_audioimage02.png)
+![description of image](/conflict_urbanism_sp2021/images/abouelenin_audioimage04.png)
 
 
 <script src="https://soundcloud.com/alina-abouelenin/juan-audio-story"></script> <script> SC.initialize({   client_id: '307387559' });
 <div class="iframe-column"><iframe src="https://soundcloud.com/alina-abouelenin/juan-audio-story" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+
+
+![description of image](/conflict_urbanism_sp2021/images/abouelenin_audioimage01.png)
+
+
+<div class="iframe-column"><iframe src="https://soundcloud.com/brunomars/bruno-mars-anderson-paak-silk" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 
 ![description of image](/conflict_urbanism_sp2021/images/abouelenin_audioimage03.png)
@@ -52,17 +57,21 @@ Over the past few years we have witnessed a very distinct narrative being crafte
 
 "Economic Information System (SIE)." Information Structure Details (SIE, Banco De México). Accessed April 25, 2021. https://www.banxico.org.mx/SieInternet/consultarDirectorioInternetAction.do?accion=consultarCuadro&idCuadro=CE99&locale=en.
 
+
 "Economic Information System (SIE)." Information Structure Details (SIE, Banco De México). Accessed April 25, 2021. https://www.banxico.org.mx/SieInternet/consultarDirectorioInternetAction.do?sector=1&accion=consultarCuadro&idCuadro=CE168&locale=en.
+
 
 FinSMEs, "The World's Most Important Remittance Corridors," FinSMEs, July 22, 2020, |PAGE|, accessed February 23, 2021, https://www.finsmes.com/2020/07/the-worlds-most-important-remittance-corridors.html)
 
+
 Gonzalez-Barrera, Ana. "Migration Flows Between the U.S. and Mexico Have Slowed – and Turned Toward Mexico." Pew Research Center's Hispanic Trends Project. December 30, 2019. Accessed April 25, 2021. https://www.pewresearch.org/hispanic/2015/11/19/chapter-1-migration-flows-between-the-u-s-and-mexico-have-slowed-and-turned-toward-mexico/.
+
 
 Gonzalez-Barrera, Ana. "More Mexicans Leaving Than Coming to the U.S.," Pew Research Center's Hispanic Trends Project, September 04, 2020, |PAGE|, accessed February 22, 2021, https://www.pewresearch.org/hispanic/2015/11/19/more-mexicans-leaving-than-coming-to-the-u-s/)
 
 
-
 "Mexican Migration Could Be the First Crisis of 2021." Council on Foreign Relations. Accessed February 23, 2021. https://www.cfr.org/blog/mexican-migration-could-be-first-crisis-2021.
+
 
 NYC Mayors Office of Immigrant Affairs, State of our Immigrant City, 2020 (New York, NY). https://www1.nyc.gov/assets/immigrants/downloads/pdf/MOIA-Annual-Report-for-2020.pdf
 
@@ -71,6 +80,7 @@ Ng, Juan José Li, Guillermo Jr. Cárdenas Salgado, Luis Antonio Espinosa, and C
 
 
 "Remittances and COVID-19: A Tale of Two Countries," The Fed - Remittances and COVID-19: A Tale of Two Countries, |PAGE|, accessed February 23, 2021, https://www.federalreserve.gov/econres/notes/feds-notes/remittances-and-covid-19-a-tale-of-two-countries-20201230.htm)
+
 
 Shvili, Jason. "The Poorest States In Mexico." WorldAtlas. January 11, 2021. Accessed April 25, 2021. https://www.worldatlas.com/articles/the-poorest-states-in-mexico.html.
 
