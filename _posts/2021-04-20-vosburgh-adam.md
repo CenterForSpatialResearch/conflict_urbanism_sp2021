@@ -8,9 +8,9 @@ author: "Henry Black, Gizem Karagoz, Caroline Maxwell, Adam Vosburgh"
 
 #### **Food Insecurity in the Hudson Valley**  
 
-![Placeholder Image](/conflict_urbanism_sp2021/images/FoodScarcity/images/farmPlaceholder.jpeg)
+![Hudson Valley Farms](/conflict_urbanism_sp2021/images/FoodScarcity/images/CoverImage.jpeg)
 
-In 1970, Henry Kissinger remarked that "[when you] control food, you control the people." While food can transcend cultural boundaries, it is also a site of conflict. Our research focuses on the superfluous nature of corporate supply chains and why food becomes increasingly vulnerable the further it travels from its source. We hope to reveal broader systemic fractures in our food system through examining infrastructures' role in exacerbating food insecurity in the Hudson Valley during the Covid-19 pandemic. Why does a food desert exist in such an agriculturally wealthy region? What are methods for creating food sovereignty? How is food being utilized as a tool of soft power?  
+While food can transcend cultural boundaries, it is also a site of conflict. Our research focuses on the superfluous nature of corporate supply chains and why food becomes increasingly vulnerable the further it travels from its source. We hope to reveal broader systemic fractures in our food system through examining infrastructures' role in exacerbating food insecurity in the Hudson Valley during the Covid-19 pandemic. Why does a food desert exist in such an agriculturally wealthy region? What are methods for creating food sovereignty? How is food being utilized as a tool of soft power?  
 
 In investigating the Hudson Valley's local struggles, we hope to reveal broader systemic fractures within the US food system. Our government has prioritized capital over sustainability, and we are now seeing the repercussions of that prioritization in climate change, food insecurity, and environmental degradation. The COVID-19 pandemic has further illuminated how fragile we are as a species and provided a window to reflect and reorient our relationship with the world. What can food teach us about recovering from the pandemic and evolving as a species? In what ways does food infrastructure conceptually and physically perform in the staging of capitalist narratives?   
 
@@ -42,6 +42,10 @@ For example, here is a case study that compares two apples purchased in Kingston
 
 #### Kingston  
 
+<div class="iframe-column"><iframe src="https://akv2118.github.io/ConflictUrbSp2021/Kingston-Map/index.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
+
+
+<!---
 ![Kinston Nodes on Supply Chains](/conflict_urbanism_sp2021/images/FoodScarcity/maps/placeholder1.png)  
 
 We mapped nodes on a long and short supply chain for Kingston, in this map red being for points on a long supply chain, yellow for short, orange for both.  
@@ -61,6 +65,8 @@ Items that fall on a short chain for Kingston are farms, local distribution cent
 ![Short Chain - Travel Distance](/conflict_urbanism_sp2021/images/FoodScarcity/maps/placeholder5.png)  
 
 A primary orchard that sells its produce at Kingston Farmers market is Maynard farms, an 8 mile drive away. Maynard farms is one of thousands of small or mid-sized hudson valley farms whose produce are left out of larger supply chains because of their lack of access to large distributors, resulting in these “short chains” that are made through direct community links as an alternative infrastructure. The result of a food system running at peak market efficiency for consolidated actors is grocery stores stocked with products not from the incredible agricultural wealth they are surrounded by, the pricing of which makes them unaffordable to over 10% of the population.  
+
+-->
 
 ![Apple Embodied Energy](/conflict_urbanism_sp2021/images/FoodScarcity/images/applesToapples2.png)  
 
