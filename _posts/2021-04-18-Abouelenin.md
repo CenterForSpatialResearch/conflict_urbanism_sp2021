@@ -35,16 +35,16 @@ Over the past few years we have witnessed a very distinct narrative being crafte
 #### Citations
 
 
-FinSMEs, "The World's Most Important Remittance Corridors," FinSMEs, July 22, 2020, |PAGE|, accessed February 23, 2021, https://www.finsmes.com/2020/07/the-worlds-most-important-remittance-corridors.html).
+FinSMEs, "The World's Most Important Remittance Corridors," FinSMEs, July 22, 2020, |PAGE|, accessed February 23, 2021. https://www.finsmes.com/2020/07/the-worlds-most-important-remittance-corridors.html).
 
 
 Gonzalez-Barrera, Ana. "Migration Flows Between the U.S. and Mexico Have Slowed – and Turned Toward Mexico." Pew Research Center's Hispanic Trends Project. December 30, 2019. Accessed April 25, 2021. https://www.pewresearch.org/hispanic/2015/11/19/chapter-1-migration-flows-between-the-u-s-and-mexico-have-slowed-and-turned-toward-mexico/.
 
 
-Gonzalez-Barrera, Ana. "More Mexicans Leaving Than Coming to the U.S.," Pew Research Center's Hispanic Trends Project, September 04, 2020, |PAGE|, accessed February 22, 2021, https://www.pewresearch.org/hispanic/2015/11/19/more-mexicans-leaving-than-coming-to-the-u-s/).
+Gonzalez-Barrera, Ana. "More Mexicans Leaving Than Coming to the U.S.," Pew Research Center's Hispanic Trends Project, September 04, 2020, |PAGE|, accessed February 22, 2021. https://www.pewresearch.org/hispanic/2015/11/19/more-mexicans-leaving-than-coming-to-the-u-s/).
 
 
-"Mexican Migration Could Be the First Crisis of 2021." Council on Foreign Relations. Accessed February 23, 2021. https://www.cfr.org/blog/mexican-migration-could-be-first-crisis-2021.
+Council on Foreign Relations. "Mexican Migration Could Be the First Crisis of 2021." Council on Foreign Relations. Accessed February 23, 2021. https://www.cfr.org/blog/mexican-migration-could-be-first-crisis-2021.
 
 
 NYC Mayors Office of Immigrant Affairs, State of our Immigrant City, 2020 (New York, NY). https://www1.nyc.gov/assets/immigrants/downloads/pdf/MOIA-Annual-Report-for-2020.pdf.
@@ -53,7 +53,7 @@ NYC Mayors Office of Immigrant Affairs, State of our Immigrant City, 2020 (New Y
 Ng, Juan José Li, Guillermo Jr. Cárdenas Salgado, Luis Antonio Espinosa, and Carlos Serrano. "It's a Publication of CONAPO, BBVA Foundation and BBVA Research. It Presents the Most Relevant Data on Migrat..." BBVA Research. September 23, 2019. Accessed April 25, 2021. https://www.bbvaresearch.com/en/publicaciones/mexico-yearbook-of-migration-and-remittances-2019/.
 
 
-"Remittances and COVID-19: A Tale of Two Countries," The Fed - Remittances and COVID-19: A Tale of Two Countries, |PAGE|, accessed February 23, 2021, https://www.federalreserve.gov/econres/notes/feds-notes/remittances-and-covid-19-a-tale-of-two-countries-20201230.htm).
+"Remittances and COVID-19: A Tale of Two Countries," The Fed - Remittances and COVID-19: A Tale of Two Countries, |PAGE|, accessed February 23, 2021. https://www.federalreserve.gov/econres/notes/feds-notes/remittances-and-covid-19-a-tale-of-two-countries-20201230.htm).
 
 
 Shvili, Jason. "The Poorest States In Mexico." WorldAtlas. January 11, 2021. Accessed April 25, 2021. https://www.worldatlas.com/articles/the-poorest-states-in-mexico.html.
