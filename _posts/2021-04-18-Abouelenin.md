@@ -36,7 +36,7 @@ Over the past few years we have witnessed a very distinct narrative being crafte
 ![description of image](/conflict_urbanism_sp2021/images/abouelenin_audioimage02.png)
 
 
-<script src="https://connect.soundcloud.com/sdk/sdk-3.3.2.js"></script> <script> SC.initialize({   client_id: '307387559' });
+<script src="https://soundcloud.com/alina-abouelenin/juan-audio-story"></script> <script> SC.initialize({   client_id: '307387559' });
 <div class="iframe-column"><iframe src="https://soundcloud.com/alina-abouelenin/juan-audio-story" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 
