@@ -25,9 +25,6 @@ As this next attempt of voter suppression occurs, and with its long history in t
 ![Dot Density Maps of Georgia Votes, 1992 & 2020](/conflict_urbanism_sp2021/images/BWRB/003.png)
 <br/><br/>
 
------------------------
-
-
 #### The Year Georgia Flipped: The 2020 Election
 
 These policies come to light at a time when Georgia has become a particularly heated arena for conflicting political ideals over the past years. President Biden won both the 2020 election in November in addition to the runoff elections this past January, a historic moment for the state, as the last Democratic presidential candidate to win in Georgia was Clinton in ‘92, followed by almost two decades of consistent Republican backing.
@@ -42,53 +39,76 @@ Undoubtedly, these new measures to complicate democracy come partially in respon
 >“At the 1900 Paris Exposition, the famed sociologist and civil rights activist W. E. B. Du Bois presented a series of groundbreaking data visualizations advocating for African American progress. These graphs, charts, and maps provided powerful glimpses into the lives of black Americans to convey both a literal and figurative representation of what Du Bois famously referred to as ‘the color line.” From advances in education to the lingering effects of slavery, these infographics-- beautiful in design and impactful in content-- made visible a wide spectrum of black experiences.”
 
 *-- Princeton Architectural Press*
+<br/><br/>
 
+In this study, we find that the blue votership of Georgia is deeply ingrained within its Black population, one whom DuBois would refer to as a “small nation of people studying, examining, and thinking of their own progress and prospects” over a century ago through the data portraits featured at the 1900 Paris exhibition.
+<br/><br/>
 
 ![Plates from the 1900 Paris Exhibition (Courtesy of LOC)](/conflict_urbanism_sp2021/images/BWRB/005.png)
 ![Quote from Dubois' The Souls of Black Folk 1903](/conflict_urbanism_sp2021/images/BWRB/006.png)
-
-
-In this study, we find that the blue votership of Georgia is deeply ingrained within its Black population, one whom DuBois would refer to as a “small nation of people studying, examining, and thinking of their own progress and prospects” over a century ago through the data portraits featured at the 1900 Paris exhibition.
+<br/><br/>
 
 More than a simple sociological study, Dubois’ display addressed a crisis of representation, refuting the racist institutions within Europe of the time and establishing a place for black Americans in modern, international society. We find the simplification of Georgia as a “red state” to be contrary to this work.
 
 In later writings, Dubois foretold that the problem of the color line dividing both the people and outcomes of white and Black communities would be one of the primary problems the twentieth century would have to grapple with.
-
-
------------------------
-
+<br/><br/>
 
 #### The Color Line of Race & Party
 
 From our own analysis, we can confirm the legacy of spatial patterns produced by racial hegemony in the US. In the middle region of the state, similarities still persist between the percentage of enslaved persons in 1860 and the percentage of black residents according to the most recent 2018 Census.
 
+Fragments of Georgia’s ‘Black Belt,’ as it would come to be known, continue to exist today, not ignoring, however, the effect of the Great Migration over much of the 20th-century in addition to the growing significance of Atlanta as a center for entrepreneurship in contemporary times.
+<br/><br/>
 
 ![% ENSLAVED POPULATION (1860) and % 'BLACK ALONE' POPULATION (2018)](/conflict_urbanism_sp2021/images/BWRB/007.png)
 ![Counties with more than 33% enslaved population in 1860 and 'Black Alone' in 2018](/conflict_urbanism_sp2021/images/BWRB/008.png)
-
-
-Fragments of Georgia’s ‘Black Belt,’ as it would come to be known, continue to exist today, not ignoring, however, the effect of the Great Migration over much of the 20th-century in addition to the growing significance of Atlanta as a center for entrepreneurship in contemporary times.
-
-
 ![% BLACK POPULATION (2018) and % BIPARTISAN VOTES FOR BIDEN (2020)](/conflict_urbanism_sp2021/images/BWRB/009.png)
 ![BLACK POPULATION (2018) and VOTES FOR BIDEN (2020), 1 dot = 50 people/votes](/conflict_urbanism_sp2021/images/BWRB/010.png)
-
+<br/><br/>
 
 The color line of Georgia today is not only racial but political, with patterns from the 2018 census replicated strongly by democratic votership within the 2020 voting poll. Counties with the highest percentage of black residents tend to be the same counties with the highest percentages of democratic votes.
 
 The relationship is also maintained through the more granular dot-density maps of block group populations, which demonstrate the variation of population across the state aside from the county percentages, while also suggesting the significance of urban centers of both small and large cities for both black communities in Georgia and democratic votership.
-
+<br/><br/>
 
 ![% WHITE POPULATION (2018) and % BIPARTISAN VOTES FOR TRUMP (2020)](/conflict_urbanism_sp2021/images/BWRB/011.png)
 ![WHITE POPULATION (2018) and VOTES FOR TRUMP (2020), 1 dot = 50 people/votes](/conflict_urbanism_sp2021/images/BWRB/012.png)
-
+<br/><br/>
 
 Inverting this map, we see similar colocation between high percentages of white residents and votership for Trump, again demonstrate through the choropleth of percentages, as well as dot-density maps of the block group populations. The rural and suburban areas of northern Georgia play a much more important role here. Undoubtedly, the political replication of the color line was a significant, underlying dynamic behind several of the key factors influencing Georgia’s election this past year.
-
+<br/><br/>
 
 ![% Black/White and % Red/Blue](/conflict_urbanism_sp2021/images/BWRB/013.png)
+<br/><br/>
 
+#### The Flip Explained
 
+So we ask, what led to the flip?
+
+![What Led to the Flip?](/conflict_urbanism_sp2021/images/BWRB/014.png)
+<br/><br/>
+
+We found three main factors: a change in demographics of eligibility, an increase in voter registration, and a change in demographics of votes cast.
+
+Georgia’s voter population overall is changing. We see in 2000 that the white vote made up 76% of the electorate, compared to 2018 where they account for 67%. The black electorate has stayed consistent from 12 to 13 percent, highlighting its constant importance and need.
+<br/><br/>
+
+![Demographics of Eligibility](/conflict_urbanism_sp2021/images/BWRB/015.png)
+![Demographics of Registration](/conflict_urbanism_sp2021/images/BWRB/016.png)
+![Increase in Registration](/conflict_urbanism_sp2021/images/BWRB/017.png)
+![Demographics of the Vote](/conflict_urbanism_sp2021/images/BWRB/018.png)
+<br/><br/>
+<br/><br/>
+
+Relative to population, if we look closer into 2016 to 2020, we can see that the Black voters had the largest increase in registration, about 130 thousand more in 2020 than 2016.
+
+Looking into votes cast by race from 2014 - 2020, we see a decline in white votership. In 2014, 67 percent and in 2020 61 percent of votes were cast by white voters.
+<br/><br/>
+
+![Why Biden won in Georgia](/conflict_urbanism_sp2021/images/BWRB/019.png)
+<br/><br/>
+
+#### The Flip in Context
 
 -----------------------
 
