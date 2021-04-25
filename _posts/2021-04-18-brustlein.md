@@ -31,18 +31,18 @@ We contend that the spatial violence of defensive architecture, CPTED measures, 
 
 
 ![time of death](/conflict_urbanism_sp2021/images/brustlein_racialcovenants.png)
-*source*
+*source: https://mappingprejudice.umn.edu/*
 
 
 
 
-In the illustration above we have identified several deed restricted racial covenant properties in close proximity to the site where George Floyd was killed. Racial covenants were used to keep “undesirables" out of particular neighborhoods. Racist land controls such as these have been sited as a reason why minneapolis has one of the lowest rates of African-American homeownership in the nation. One can see the absurd and racist langauge covenants contained in an advertisement for property that was for sale in Minneapolis in 1919 the flier state that these properties could not “be conveyed mortgaged or leased to any person or persons of Chinese, Japanese, Moorish, Turkish, Negro, Mongolian, Semitic or African blood or descent."
+In the illustration above we have identified several deed restricted racial covenant properties in close proximity to the site where George Floyd was killed. Racial covenants were used to keep “undesirables" out of particular neighborhoods. Racist land controls such as these have been sited as a reason why minneapolis has one of the lowest rates of African-American homeownership in the nation. One can see the absurd and racist langauge covenants contained in an advertisement for property that was for sale in Minneapolis in 1919 the flyer states that these properties could not “be conveyed mortgaged or leased to any person or persons of Chinese, Japanese, Moorish, Turkish, Negro, Mongolian, Semitic or African blood or descent."
 
 
 
 
 ![time of death](/conflict_urbanism_sp2021/images/brustlein_censusblock-01.png)
-*source*
+*source: http://www.city-data.com/neighborhood/Powderhorn-Minneapolis-MN.html*
 
 
 
@@ -53,7 +53,6 @@ The area where George Floyd was killed is a very diverse area of the city. The s
 
 
 ![time of death](/conflict_urbanism_sp2021/images/brustlein_cpted.png)
-*source*
 
 
 
@@ -84,7 +83,7 @@ In 1996 a report was prepared for the Bancroft Neighborhood Association evaluati
 
 
 ![time of death](/conflict_urbanism_sp2021/images/brustlein_policeactivity.png)
-*source*
+*source: Minneapolis Police Department Crime Map https://www.arcgis.com/apps/webappviewer/index.html?id=576634548ffc4304bf9df0fb2b802f8d*
 
 
 
