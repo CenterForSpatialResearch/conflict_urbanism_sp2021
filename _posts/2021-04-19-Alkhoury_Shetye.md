@@ -2,7 +2,7 @@
 layout: post
 date:   2021-04-18
 image: "/conflict_urbanism_sp2021/images/Iraq_Maps/thumbnail.jpg"
-title:  "The Ma’dān Tribes: A case for Environmental Refugees"
+title:  "The Ma’dān Tribes of Iraq: A case for Environmental Refugees"
 author: "Farah Alkhoury, Aditi Shetye"
 ---
 
