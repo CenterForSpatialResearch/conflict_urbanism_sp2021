@@ -8,7 +8,7 @@ author: "Henry Black, Gizem Karagoz, Caroline Maxwell, Adam Vosburgh"
 
 #### The Collapse of Corporate Infrastructure and the Resilience of Local Systems in the Hudson Valley  
 
-![Hudson Valley Farms](/conflict_urbanism_sp2021/images/FoodScarcity/images/CoverImage.jpeg)
+![Hudson Valley Farms](/conflict_urbanism_sp2021/images/FoodScarcity/images/CoverImage.jpg)
 
 While food can transcend cultural boundaries, it is also a site of conflict. This research focuses on the superfluous nature of corporate supply chains. In this study, the broader systemic fractures of the food system are revealed through the examination of corporate infrastructures' role in exacerbating food insecurity in the Hudson Valley during the COVID-19 pandemic.  
 
