@@ -1,7 +1,7 @@
 ---
 layout: post
-date:   2021-01-01
-image: "/template_site/images/csr_thumbnail.png"
+date:   2021-04-25
+image: "/conflict_urbanism_sp2021/images/BWRB/bwrb_thumbnail.png"
 title:  "Black, White, Red, & Blue: Representing the Black Electorate of Georgia, After Dubois"
 author: "Rousol Aribi, Will Cao, and Ian Wach"
 ---
@@ -221,7 +221,7 @@ In spite of large and deepening democratic swings in all three counties, we stil
 To better understand the impacts of the new law, we look at how each party voted in 2020. We found a large utilization of absentee ballots and early voting across both parties, however, more Republicans voted on election day and more Democrats voted by mail. This was due largely to Covid, but the effects of these percentages were clearly felt and the results show in the new SBS 202 law where many changes have been made to absentee voting and early voting.
 <br/><br/>
 
-![Aftermath](/conflict_urbanism_sp2021/images/BWRB/036.png)
+![Aftermath](/conflict_urbanism_sp2021/images/BWRB/038.png)
 <br/><br/>
 
 Looking more specifically to changes done to the absentee and early voting process as a result of the new voter law:
@@ -250,7 +250,9 @@ The 2020 election and the respected outcome in Georgia played a larger role in t
 We witnessed just a day after the Georgia runoff election in January the events of the U.S. Capital Insurrection. Those involved have been linked to far-right activities and engagements and Trump’s sentiments of a “rigged” and “travesty of a 2020 Presidential election”. Former President Trump tweeted in support of Georgia’s GOP amid the passing of the Election Integrity Act of 2021.
 
 President Biden has called the new bill a “blatant attack on the constitution” and is urging Congress to pass the Democrats For The People Act which would bring “about some of the most significant changes to U.S. voting law in decades” and would reserve many of the changes coming as a result of Georgia’s Election Integrity Act of 2021.
+<br/><br/>
 
 -----------------------
+<br/><br/>
 
 #### Works Cited
