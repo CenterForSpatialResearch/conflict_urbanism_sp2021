@@ -18,7 +18,7 @@ Over the past few years we have witnessed a very distinct narrative being crafte
  These trends, as interesting as they are, remain just that – trends and numbers. The goal of this project was to create a human driven narrative map that would explore the topics of remittances and migration from a different perspective - one that gives the data and numbers, names and stories. What are some of the anecdotal reasons why Mexicans left for the US? How do they explain the increasing number of remittances being sent back? Why are they choosing to return back to Mexico? Through field work conducted in Sunset Park, New York and a series of interviews, an intricate narrative unfolded of family networks across the border. These are demonstrated in the map below as well as the audio pieces at the end. 
 
 
-![Narrative Map of Transnationalism across the US-Mexican Border told through the stories of three different family network](/conflict_urbanism_sp2021/images/abouelenin_map.jpg)
+![Narrative Map of Transnationalism across the US-Mexican Border told through the stories of three different family network](/conflict_urbanism_sp2021/images/abouelenin_map_2.jpg)
 
 
 ![description of image](/conflict_urbanism_sp2021/images/abouelenin_audioimage01.png)
@@ -30,7 +30,7 @@ Over the past few years we have witnessed a very distinct narrative being crafte
 ![description of image](/conflict_urbanism_sp2021/images/abouelenin_audioimage02.png)
 
 
-<div class="iframe-column"><iframe src="https://soundcloud.com/brunomars/bruno-mars-anderson-paak-silk" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+<div class="iframe-column"><iframe src="https://soundcloud.com/alina-abouelenin/juan-audio-story" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 
 ![description of image](/conflict_urbanism_sp2021/images/abouelenin_audioimage03.png)
