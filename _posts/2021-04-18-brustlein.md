@@ -112,6 +112,8 @@ Built primarily with surveillance, control and crime prevention in mind, the lan
 
 
 
+1-4: Security cameras
+
 
 - "Place all entrances under visual surveillance (monitored electronically if necessary)." CPTED Manual
 
@@ -121,9 +123,17 @@ Built primarily with surveillance, control and crime prevention in mind, the lan
 ![time of death](/conflict_urbanism_sp2021/images/brustlein_elements2.png)
 
 
+5: Bill board
+6: Awning
+7: Mural
+
+
 ![time of death](/conflict_urbanism_sp2021/images/brustlein_elements3.png)
 
 
+8: Picketed fence
+9: Bus stop
+10: Bench
 
 
 - “Low hedges or planters, small trees, wrought iron or chain-link fences, transparent reinforced glass, lawn or flower beds, benches allow users to see and be seen and usually discourage crime and vandalism.” Crime Prevention Through Environmental Design Guidebook pg 8
@@ -134,6 +144,10 @@ Built primarily with surveillance, control and crime prevention in mind, the lan
 ![time of death](/conflict_urbanism_sp2021/images/brustlein_elements4.png)
 
 
+11: Electric lines
+12: Facade lighting
+13: Trash
+14: Greenery
 
 
  - Factors that create opportunities to commit crime can be found in both the physical and the social environment. For example, if there is inadequate lighting, assailants are able to conceal themselves and remain undetected by potential victims. Similarly, if residents of an area are unfamiliar with each other and avoid questioning strangers about their reasons for being in that area, persons with criminal intent can move freely without being detected.
