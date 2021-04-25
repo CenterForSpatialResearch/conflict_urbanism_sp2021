@@ -36,11 +36,11 @@ For example, here is a case study that compares two apples purchased in Kingston
 
 ## Ulster County  
 
-<div class="iframe-column"><iframe src="https://akv2118.github.io/ConflictUrbSp2021/Ulster-Map/index.html" style="position:relative;top:0;left:0;width:200%;height:100%;margin-left:auto;margin-right:auto;" frameborder="0"></iframe></div>    
+<div class="iframe-column"><iframe src="https://akv2118.github.io/ConflictUrbSp2021/Ulster-Map/index.html" style="position:absolute;top:0;left:0;width:150%;height:100%;" frameborder="0"></iframe></div>    
 
 ## Kingston  
 
-<div class="iframe-column"><iframe src="https://akv2118.github.io/ConflictUrbSp2021/Kingston-Map/index.html" style="position:absolute;top:0;left:0;width:175%;height:100%;float:center;" frameborder="0"></iframe></div>    
+<div class="iframe-column"><iframe src="https://akv2118.github.io/ConflictUrbSp2021/Kingston-Map/index.html" style="position:absolute;top:0;left:0;width:150%;height:100%;" frameborder="0"></iframe></div>    
 
 
 <!---
