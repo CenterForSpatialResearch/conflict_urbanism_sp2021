@@ -2,7 +2,7 @@
 layout: post
 date:   2021-04-20
 image: "/conflict_urbanism_sp2021/images/FoodScarcity/images/applesToapples1.png"
-title:  "Food Scarcity in the Hudson Valley"
+title:  "Food as Soft Power"
 author: "Henry Black, Gizem Karagoz, Caroline Maxwell, Adam Vosburgh"
 ---
 
@@ -39,11 +39,11 @@ For example, here is a case study that compares two apples purchased in Kingston
 
 ## Ulster County  
 
-<div class="iframe-column"><iframe src="https://akv2118.github.io/ConflictUrbSp2021/Ulster-Map/index.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
+<div class="iframe-column"><iframe src="https://akv2118.github.io/ConflictUrbSp2021/Ulster-Map/index.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>    
 
 ## Kingston  
 
-<div class="iframe-column"><iframe src="https://akv2118.github.io/ConflictUrbSp2021/Kingston-Map/index.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
+<div class="iframe-column"><iframe src="https://akv2118.github.io/ConflictUrbSp2021/Kingston-Map/index.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>    
 
 
 <!---
@@ -68,11 +68,21 @@ Items that fall on a short chain for Kingston are farms, local distribution cent
 A primary orchard that sells its produce at Kingston Farmers market is Maynard farms, an 8 mile drive away. Maynard farms is one of thousands of small or mid-sized hudson valley farms whose produce are left out of larger supply chains because of their lack of access to large distributors, resulting in these “short chains” that are made through direct community links as an alternative infrastructure. The result of a food system running at peak market efficiency for consolidated actors is grocery stores stocked with products not from the incredible agricultural wealth they are surrounded by, the pricing of which makes them unaffordable to over 10% of the population.  
 
 -->
-
-![Apple Embodied Energy](/conflict_urbanism_sp2021/images/FoodScarcity/images/applesToapples2.png)  
-
-This is a placeholder but we would like to make an attempt at calculating embodied carbon, energy, water, and labor in our apples.  
  
 ## Forms of Resistance  
 
-Need some stuff here.
+Forms of resistance to corporate supply chains include grassroots organization, local food pantries, community fridges, farmers markets, and meal delivery services. When corporate supply chains such as Walmart collapsed during the Covid-19 pandemic, local systems were able to continue operating which created community resilience despite the circumstances.  
+
+## Conclusion  
+
+How does food infrastructure perform as a tool of soft power? Our research illuminates the increasing vulnerability of food the further it travels from its source and the apparatuses of infrastructural dependency embedded within the Hudson Valley food system. By examining infrastructure and the injustices within it, we hope to render visible the systemic issues present in our broader food systems. The Covid-19 pandemic has exacerbated the inefficiencies and weaknesses within corporate food infrastructure, so the argument for a local, sustainable, and just food system becomes critical for our shared future.
+
+## Citations
+
+Anand, Nikhil. Promise of Infrastructure. Duke University Press, 2018.  
+Bureau, U. (2021, March 24). American community SURVEY (ACS). Retrieved April 24, 2021, from https://www.census.gov/programs-surveys/acs/  
+Driver, Kelly, and JH Bloomberg School of Public Health. “Hunger and Food Insecurity.” Johns Hopkins Bloomberg School of Public Health, 5 Aug. 2016, www.foodsystemprimer.org/food-and-nutrition/hunger-and-food-insecurity/.  
+“How Do You Measure Hunger?” Feeding America, www.feedingamerica.org/hunger-in-america/food-insecurity.  
+Hudson Valley Farm Hub, 24 Mar. 2021, hvfarmhub.org/.  
+“Growing Food Equity in New York City.” Data Team, council.nyc.gov/data/food-equity/.  
+“Overview.” USDA ERS - Food Security in the U.S., www.ers.usda.gov/topics/food-nutrition-assistance/food-security-in-the-us.aspx. 
