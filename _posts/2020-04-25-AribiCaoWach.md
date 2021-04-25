@@ -7,23 +7,26 @@ author: "Rousol Aribi, Will Cao, and Ian Wach"
 ---
 
 ![Black, White, Red, & Blue: Representing the Black Electorate of Georgia, After Dubois](/conflict_urbanism_sp2021/images/BWRB/001.png)
-
+<br/>
 
 *The results of the 2020 election represented many things around the nation. In Georgia, the general and runoff elections became a significant occurrence, with the states flip from red to blue. Looking forward, this could represent a model to analyze shifting demographics throughout the US. Overall, these changes will have far-reaching effects on local, state, and national politics.*
 
 *Black White Red & Blue; Representing the Black electorate of Georgia After Dubois looks to analyze and compare Georgia's demographics and voting patterns for the 2020 election year through the reinterpretation of W. E. B. Du Bois’ data portraits in his Exposition des Nègres d'Amerique in 1900.*
+<br/>
 
+-----------------------
+<br/>
 
 #### Introduction
 
 On March 25th, 2021, Republican Governor Brian Kemp of the state of Georgia signed the 95-page Law, SB 202, or the Election Integrity Act of 2021, less than two hours after both houses of the state legislature passed it. According to the ACLU (American Civil Liberties Union), this law violates voters’ first, fourteenth, and fifteenth amendments as well as the Voting Rights Act. Some changes from this law involve criminalizing line warming, which is when a person or an organization provides food and/or resources to voters waiting in line, additional more stringent voter ID requirements, changes to the absentee and early voting processes, and empowers state officials to take over local election boards. It is currently being challenged by several organizations such as Black Votes Matter and the ACLU on the grounds of voter suppression and civil infringement.
 
 As this next attempt of voter suppression occurs, and with its long history in this state, we look back on W. E. B. Du Bois’ 1900 The Exhibit of American Negroes, and exploration of Georgia demographics and how it relates to today, and more specifically the year 2020.
-
+<br/>
 
 ![Georgia's Voting History](/conflict_urbanism_sp2021/images/BWRB/002.png)
 ![Dot Density Maps of Georgia Votes, 1992 & 2020](/conflict_urbanism_sp2021/images/BWRB/003.png)
-
+<br/>
 
 -----------------------
 
@@ -39,7 +42,7 @@ Undoubtedly, these new measures to complicate democracy come partially in respon
 
 #### The 1900 Exposition des Nègres d'Amerique
 
-“At the 1900 Paris Exposition, the famed sociologist and civil rights activist W. E. B. Du Bois presented a series of groundbreaking data visualizations advocating for African American progress. These graphs, charts, and maps provided powerful glimpses into the lives of black Americans to convey both a literal and figurative representation of what Du Bois famously referred to as ‘the color line.” From advances in education to the lingering effects of slavery, these infographics-- beautiful in design and impactful in content-- made visible a wide spectrum of black experiences.”
+>“At the 1900 Paris Exposition, the famed sociologist and civil rights activist W. E. B. Du Bois presented a series of groundbreaking data visualizations advocating for African American progress. These graphs, charts, and maps provided powerful glimpses into the lives of black Americans to convey both a literal and figurative representation of what Du Bois famously referred to as ‘the color line.” From advances in education to the lingering effects of slavery, these infographics-- beautiful in design and impactful in content-- made visible a wide spectrum of black experiences.”
 
 *-- Princeton Architectural Press*
 
@@ -87,6 +90,7 @@ Inverting this map, we see similar colocation between high percentages of white 
 
 
 ![WHITE POPULATION (2018) and VOTES FOR TRUMP (2020), 1 dot = 50 people/votes](/conflict_urbanism_sp2021/images/BWRB/010.png)
+
 
 
 -----------------------
