@@ -30,8 +30,6 @@ Over the past few years we have witnessed a very distinct narrative being crafte
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1036516084&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-698238591" title="CSR Columbia" target="_blank" style="color: #cccccc; text-decoration: none;">CSR Columbia</a> · <a href="https://soundcloud.com/user-698238591/listen-to-benito" title="Listen to Benito" target="_blank" style="color: #cccccc; text-decoration: none;">Listen to Benito</a></div>
 
 
-
-
 #### Citations
 
 
@@ -62,7 +60,7 @@ Warren, Robert. “Reverse Migration to Mexico Led to US Undocumented Population
 
 
 
-Data Sources
+#### Data Sources
 
 [Migration Policy Institute](https://www.migrationpolicy.org/programs/data-hub/charts/mexican-born-population-over-time).
 
