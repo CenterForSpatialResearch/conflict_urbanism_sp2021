@@ -98,7 +98,7 @@ In her dissertation, *‘Reconstructing life: Environment, Expertise, and Politi
 Maps like the ones below show the increase in number of oilfields in the country since the US led occupation. They highlight unique locations of ‘supergiant oil fields’ in and around the Marshlands, which drew a lot of funding from international oil companies like Shell and Exxon Mobil in the hopes to get access to the oil resources through conservational attempts.
 
 ![Oilfields in Iraq, 1993.](/conflict_urbanism_sp2021/images/Iraq_Maps/OF1993.jpg)
-###### *Oilfields in Iraq, 1993* [Click here to view full screen](https://github.com/CenterForSpatialResearch/conflict_urbanism_sp2021/blob/master/images/Iraq_Maps/OF1993.jpg?raw=true)
+###### *Oilfields in Iraq, 1993.* [Click here to view full screen](https://github.com/CenterForSpatialResearch/conflict_urbanism_sp2021/blob/master/images/Iraq_Maps/OF1993.jpg?raw=true)
 ###### *Imagery created by Alkhoury, F & Shetye, A*
 ![Oilfields in Iraq during talks of marsh restoration, 2003.](/conflict_urbanism_sp2021/images/Iraq_Maps/OF2003_.jpg)
 ###### *Oilfields in Iraq during talks of marsh restoration, 2003.* [Click here to view full screen](https://github.com/CenterForSpatialResearch/conflict_urbanism_sp2021/blob/master/images/Iraq_Maps/OF2003_.jpg?raw=true) 
