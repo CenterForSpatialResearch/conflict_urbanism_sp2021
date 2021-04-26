@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2021-04-26
-image: "/conflict_urbanism_sp2021/images/moreno_infrapolitics_thumbnail.png"
+image: "/conflict_urbanism_sp2021/images/moreno_infrapolitics_thumbnail.jpg"
 title:  "Infrapolitics of Waste in Five Cities of the Urban South"
 author: "Johane Clermont, Juan Sebastián Moreno, Keneilwe Ramaphosa, Zeineb Sellami, Magdalena Valdevenito"
 ---
@@ -73,7 +73,7 @@ Waste management in Tunisia is a complex affair between a variety of stakeholder
 
 Municipalities face barriers such as insufficient budgets, outdated equipment, and a lack of qualified personnel (Blaise, 2014). In addition to these difficulties, corruption among higher governing bodies and the private landfill operators have led to workers strikes (Bocchi, 2017). Meanwhile, central government continues to plan for an expansion of landfills, often against the will of citizens and local residents. The following country-wide map* shows plans for new landfills despite existing deficiencies and lack of stakeholder involvement.
 
-![countrywide map of landfills in tunis](/conflict_urbanism_sp2021/images/moreno_tunis_countrywide_landfills.jpg)
+![countrywide map of landfills in tunis](/conflict_urbanism_sp2021/images/moreno_tunis_countrywide_landfills.png)
 _*This map is based on data of controlled landfills created, under creation or pending, from Mahjoub et. al. (2020) and reproduced from Blaise (2014)._
 
 Whether in Tunisia, Chile or South Africa, municipal shortcomings with regards to these critical pieces of infrastructure, have led to severe mismanagement of landfills and waste collection, leaving citizens with no other choice but to take matters into their own hands, spurring informal development.
