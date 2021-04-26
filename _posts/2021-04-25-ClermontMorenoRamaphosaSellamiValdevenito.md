@@ -106,11 +106,11 @@ Both in Tunis and Cape Town, waste pickers enhance services provided by the gove
 
 The geography of waste in Bogotá extends well beyond Doña Juana, and includes more than the private trucks that collect garbage. A network of multiple dumping sites, mapped here, is mostly navigated by informal waste pickers.
 
-![bogotá clandestine waste dumping sites](/conflict_urbanism_sp2021/images/moreno_bogota_clandestine_sites.png)
+![bogotá clandestine waste dumping sites](/conflict_urbanism_sp2021/images/moreno_bogota_clandestine_sites.jpg)
 
 Using spatial analysis on these dumping sites, we determined hotspots of waste outside the landfill. In order to tackle this issue, the city developed a formal system to integrate waste pickers into collection circuits, which consists of a series of warehouses where waste pickers go to classify, weigh, and sell the material they gather. The system’s coverage is minimal, and there are no technical solutions in place to improve or dignify the waste pickers’ work.
 
-![bogotá waste hotspots](/conflict_urbanism_sp2021/images/moreno_bogota_clandestine_hotspots.png)
+![bogotá waste hotspots](/conflict_urbanism_sp2021/images/moreno_bogota_clandestine_hotspots.jpg)
 
 #### Waste obfuscates the boundaries between formality and informality
 
