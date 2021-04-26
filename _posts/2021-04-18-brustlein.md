@@ -171,3 +171,17 @@ Built primarily with surveillance, control and crime prevention in mind, the lan
 
 
 *References*
+
+“What are Covenants?,” Mapping Prejudice, Accessed April 2021, https://mappingprejudice.umn.edu/what-are-covenants/index.html#what.
+
+Crowe, Timothy. Crime Prevention Through Environmental Design: Applications of Architectural Design and Space Management Concepts.
+United Kingdom: Butterworth-Heinemann, 1991.
+
+Phillips, Eric. Crime Prevention Through Environmental Design in the Bancroft Neighborhood.
+Minneapolis: Bancroft Neighborhood Association, 1996.
+
+Connecticut Housing Finance Authority. CPTED Crime Prevention Through Environmental Design Manual
+Connecticut: Connecticut Housing Finance Authority, 2017.
+
+Hoon, Tan Kian. Crime Prevention Through Environmental Design Guidebook.
+Singapore: National Crime Prevention Council, 2003.
