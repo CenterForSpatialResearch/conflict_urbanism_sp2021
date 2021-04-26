@@ -31,7 +31,7 @@ With this project, we intend to contribute mostly to the research on possible me
 <br><br>
 #### **The Project: Three case studies in the Sahel, Africa**
 <br>
-![Environmental impacts in Africa](/conflict_urbanism_sp2021/images/climate-refugees/sahel.png)
+![Environmental impacts in Africa](/conflict_urbanism_sp2021/images/climate-refugees/sahel.png =100x20)
 <br>
 _Data of Figure 1 is from [IOM, 2015 [7]](https://environmentalmigration.iom.int/europe-and-africa)._
 
@@ -124,7 +124,7 @@ In response to the prevailing assumption that the internationally acclaimed term
 ----
 #### **REFERENCES**
 **Cited Literature:** <br>
-[1] Apap, J. (2019). The Concept of ‘Climate Refugee’: Towards a Possible Definition, European Parliamentary Research Service (EPRS), 8. Retrieved from https://www.europarl.europa.eu/thinktank/en/document.html?reference=EPRS_BRI(2018)621893. <br>
+[1] Apap, J. (2019). The Concept of ‘Climate Refugee’: Towards a Possible Definition, European Parliamentary Research Service (EPRS), 8. Retrieved from [https://www.europarl.europa.eu/thinktank/en/document.html?reference=EPRS_BRI(2018)621893](https://www.europarl.europa.eu/thinktank/en/document.html?reference=EPRS_BRI(2018)621893). <br><br>
 [2] Apap, J. (2019). <br>
 [3] Apap, J. (2019). <br>
 [4] Guterres, A. (2011). Statement by Mr. António Guterres, Former United Nations High Commissioner for Refugees, Intergovernmental Meeting at Ministerial Level to mark the 60th anniversary of the 1951 Convention relating to the Status of Refugees and the 50th anniversary of the 1961 Convention on the Reduction of Statelessness, Geneva, December 7, 2011, Retrieved from https://www.unhcr.org/admin/hcspeeches/4ecd0cde9/statement-mr-antonio-guterres-united-nations-high-commissioner-refugees.html. <br>
@@ -139,25 +139,25 @@ https://environmentalmigration.iom.int/europe-and-africa <br>
 [12] Council on Foreign Relations. (2021). Boko Haram in Nigeria. Retrieved from https://www.cfr.org/global-conflict-tracker/conflict/boko-haram-nigeria<br>
 [13] Sparkman, T. (2019). New Report Addresses Climate and Fragility Risks in the Lake Chad Region. Retrieved from https://www.newsecuritybeat.org/2019/05/report-addresses-climate-fragility-risks-lake-chad-region/. <br>
 [14] IUCN. (n.d.) Komadugu Yobe Basin, upstream of Lake Chad, Nigeria. Retrieved from https://portals.iucn.org/library/efiles/documents/2011-097.pdf <br>
-[15] Kogoui Kamta, Frederic Noel & Schilling, Janpeter & Scheffran, Jürgen. (2020). Insecurity, Resource Scarcity, and Migration to Camps of Internally Displaced Persons in Northeast Nigeria. Sustainability, 12, 6830. Retrieved from doi:10.3390/su12176830. <br>
-[16] Council on Foreign Relations. (2021). <br>
+[15] Kogoui Kamta, Frederic Noel & Schilling, Janpeter & Scheffran, Jürgen. (2020). Insecurity, Resource Scarcity, and Migration to Camps of Internally Displaced Persons in Northeast Nigeria. Sustainability, 12, 6830. Retrieved from doi:10.3390/su12176830. <br><br>
+[16] Council on Foreign Relations. (2021). <br><br>
 
 **Supporting Literature:** <br>
-ACTED. (n.d.) In the Lake Chad basin, populations are trapped between climate change and insecurity. Retrieved from https://www.acted.org/en/in-the-lake-chad-basin-populations-are-trapped-between-climate-change-and-insecurity/ <br>
-Agence France-Presse. (2020). 42,000 Flee Violence in Northwest Nigeria. Retrieved from https://ewn.co.za/2020/05/12/42-000-flee-violence-in-northwestern-nigeria <br>
-UNHCR. (2021). Surging violence in Nigeria drives displacement to Niger. Retrieved from https://www.unhcr.org/en-us/news/briefing/2021/3/603dfeaa4/surging-violence-nigeria-drives-displacement-niger.html <br>
-Egbejule, E. (2018). Deadly cattle raids in Zamfara: Nigeria’s ‘ignored’ crisis. Retrieved from https://www.aljazeera.com/features/2018/8/20/deadly-cattle-raids-in-zamfara-nigerias-ignored-crisis <br>
-Griffin, T. (n.d.). Lake Chad: Changing Hydrography, Violent Extremism, and Climate-Conflict Intersection. Retrieved from https://www.usmcu.edu/Outreach/Marine-Corps-University-Press/Expeditions-with-MCUP-digital-journal/Lake-Chad/ <br>
-International Crisis Group 2020. Violence in Nigeria’s North West: Rolling Back the Mayhem. Retrieved from https://www.crisisgroup.org/africa/west-africa/nigeria/288-violence-nigerias-north-west-rolling-back-mayhem <br>
-Kindzeka, M.E. (2021). 5,000 Nigerians Displaced by Boko Haram Ready to Return, Cameroon Says. Retrieved from https://www.voanews.com/africa/5000-nigerians-displaced-boko-haram-ready-return-cameroon-says <br>
-Medecins Sans Frontiers. (2019). Nigeria: Tens of thousands displaced by violence in Zamfara state. Retrived from https://www.doctorswithoutborders.org/what-we-do/news-stories/news/nigeria-tens-thousands-displaced-violence-zamfara-state <br>
-Tower, A. (2017). Shrinking Options: The Nexus Between Climate Change, Displacement and Security in the Lake Chad Basin. Retrieved from https://environmentalmigration.iom.int/shrinking-options-nexus-between-climate-change-displacement-and-security-lake-chad-basin <br>
-Zieba, F. W., Yengoh, G. T., & Tom, A. (2017). Seasonal Migration and Settlement around Lake Chad: Strategies for Control of Resources in an Increasingly Drying Lake. Resources, 6(3), 41. MDPI AG. Retrieved from http://dx.doi.org/10.3390/resources6030041 <br>
+ACTED. (n.d.) In the Lake Chad basin, populations are trapped between climate change and insecurity. Retrieved from https://www.acted.org/en/in-the-lake-chad-basin-populations-are-trapped-between-climate-change-and-insecurity/ <br><br>
+Agence France-Presse. (2020). 42,000 Flee Violence in Northwest Nigeria. Retrieved from https://ewn.co.za/2020/05/12/42-000-flee-violence-in-northwestern-nigeria <br><br>
+UNHCR. (2021). Surging violence in Nigeria drives displacement to Niger. Retrieved from https://www.unhcr.org/en-us/news/briefing/2021/3/603dfeaa4/surging-violence-nigeria-drives-displacement-niger.html <br><br>
+Egbejule, E. (2018). Deadly cattle raids in Zamfara: Nigeria’s ‘ignored’ crisis. Retrieved from https://www.aljazeera.com/features/2018/8/20/deadly-cattle-raids-in-zamfara-nigerias-ignored-crisis <br><br>
+Griffin, T. (n.d.). Lake Chad: Changing Hydrography, Violent Extremism, and Climate-Conflict Intersection. Retrieved from https://www.usmcu.edu/Outreach/Marine-Corps-University-Press/Expeditions-with-MCUP-digital-journal/Lake-Chad/ <br><br>
+International Crisis Group 2020. Violence in Nigeria’s North West: Rolling Back the Mayhem. Retrieved from https://www.crisisgroup.org/africa/west-africa/nigeria/288-violence-nigerias-north-west-rolling-back-mayhem <br><br>
+Kindzeka, M.E. (2021). 5,000 Nigerians Displaced by Boko Haram Ready to Return, Cameroon Says. Retrieved from https://www.voanews.com/africa/5000-nigerians-displaced-boko-haram-ready-return-cameroon-says <br><br>
+Medecins Sans Frontiers. (2019). Nigeria: Tens of thousands displaced by violence in Zamfara state. Retrived from https://www.doctorswithoutborders.org/what-we-do/news-stories/news/nigeria-tens-thousands-displaced-violence-zamfara-state <br><br>
+Tower, A. (2017). Shrinking Options: The Nexus Between Climate Change, Displacement and Security in the Lake Chad Basin. Retrieved from https://environmentalmigration.iom.int/shrinking-options-nexus-between-climate-change-displacement-and-security-lake-chad-basin <br><br>
+Zieba, F. W., Yengoh, G. T., & Tom, A. (2017). Seasonal Migration and Settlement around Lake Chad: Strategies for Control of Resources in an Increasingly Drying Lake. Resources, 6(3), 41. MDPI AG. Retrieved from http://dx.doi.org/10.3390/resources6030041 <br><br>
 
 **Datasets:** <br>
-ACLED. (2021). Conflicts in Nigeria from January 1997 to March 2021. Retrieved from https://acleddata.com/curated-data-files/ <br>
-Google Earth. (2021). Historical imagery of Nigeria from 1984 to 2020. Retrieved from https://earth.google.com/web/@9.0338725,8.677457,447.34097653a,2938707.2331043d,35y,0h,0t,0r <br>
-International Organization for Migration. (2019). Migration Flows in West and Central Africa. Retrieved from https://migration.iom.int/data-stories/migration-flows-west-central-africa <br>
-International Organization for Migration. (2021). Nigeria Displacement - [IDPs] - Baseline Assessment [IOM DTM]. Retrieved from https://data.humdata.org/dataset/nigeria-baseline-data-iom-dtm <br>
-International Organization for Migration. (2021). Nigeria Displacement - [IDPs] - Location Assessment [IOM DTM]. Retrieved from https://data.humdata.org/dataset/nigeria-location-assessment-data#:~:text=DTM%20location%20assessment%20is%20to,for%20more%20detailed%20site%20assessments. <br>
+ACLED. (2021). Conflicts in Nigeria from January 1997 to March 2021. Retrieved from https://acleddata.com/curated-data-files/ <br><br>
+Google Earth. (2021). Historical imagery of Nigeria from 1984 to 2020. Retrieved from https://earth.google.com/web/@9.0338725,8.677457,447.34097653a,2938707.2331043d,35y,0h,0t,0r <br><br>
+International Organization for Migration. (2019). Migration Flows in West and Central Africa. Retrieved from https://migration.iom.int/data-stories/migration-flows-west-central-africa <br><br>
+International Organization for Migration. (2021). Nigeria Displacement - [IDPs] - Baseline Assessment [IOM DTM]. Retrieved from https://data.humdata.org/dataset/nigeria-baseline-data-iom-dtm <br><br>
+International Organization for Migration. (2021). Nigeria Displacement - [IDPs] - Location Assessment [IOM DTM]. Retrieved from https://data.humdata.org/dataset/nigeria-location-assessment-data#:~:text=DTM%20location%20assessment%20is%20to,for%20more%20detailed%20site%20assessments. <br><br>
 U.S. Geological Survey Earth Explorer. (2021). Nigeria Landsat-8 Aerial Imagery. Retrieved from https://earthexplorer.usgs.gov/ <br>
