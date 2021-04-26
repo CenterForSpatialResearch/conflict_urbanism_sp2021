@@ -34,7 +34,7 @@ With this project, we intend to contribute mostly to the research on possible me
 ![Environmental impacts in Africa](/conflict_urbanism_sp2021/images/climate-refugees/sahel.png)
 <br>
 _Data of Figure 1 is from [IOM, 2015 [7]](https://environmentalmigration.iom.int/europe-and-africa)._
-<br>
+<br><br>
 This research is focused in the Sahel area of Central Africa, since it is a region acutely affected by climate change (Figure 1), which heavily threatens the environmental and livelihood conditions of the region. More precisely, we chose three regions within Nigeria, namely Northwestern **Sokoto and Zamfara**, Central **Benue** and the Northeastern **Borno** state (located by Lake Chad).
 
 These three particular case studies were selected as they present distinct types of climate induced conflicts (Cattle rustling and rural banditry, Farmer-Herder conflicts, and Boko Haram) and patterns of migration (transnational migration, internal displacement). Additionally, considering the causal relationships within these three different locations may help us avoid site-specific biases and prevent us from drawing hasty conclusions without due consideration. 
@@ -121,7 +121,7 @@ In response to the prevailing assumption that the internationally acclaimed term
 3. In personal testimonies, some names have been changed by the interview publishers to protect the identity of the displaced individuals. At the same time, several origins of migration have been difficult to establish as well, while some village names do not exist in any repository of geographical names, or have been changed on purpose as well. 
 
 <br><br>
-----
+---
 #### **REFERENCES**
 **Cited Literature:** <br>
 [1] Apap, J. (2019). The Concept of ‘Climate Refugee’: Towards a Possible Definition, European Parliamentary Research Service (EPRS), 8. Retrieved from [https://www.europarl.europa.eu/thinktank/en/document.html?reference=EPRS_BRI(2018)621893](https://www.europarl.europa.eu/thinktank/en/document.html?reference=EPRS_BRI(2018)621893). <br><br>
