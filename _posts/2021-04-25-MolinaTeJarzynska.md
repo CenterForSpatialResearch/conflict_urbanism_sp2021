@@ -9,7 +9,7 @@ author: "Sherry Te, Zuzanna Jarzynska, Andrea Molina"
 This project investigates publicly accessible spatial data on climate, conflict and migration, in relation to the absence of a legal definition of the term “climate refugee”. For this purpose, the work focuses on three case studies in the Sahel Region in Central Africa, where arguable climate-induced mass migration and conflict is taking place. The objective is to explore spatial complexities of establishing causal relationships between the three phenomena and develop a framework for further research, as well as contribute to the discussion on how climate migration can be addressed in terms of policy.
 
 
-## **The Problem: The absence of a legal framework for climate refugees**
+#### **The Problem: The absence of a legal framework for climate refugees**
 
 The problem that triggered this research is that, in spite of the apparent evidence of the role that climate change plays in forcing massive migrations, there is neither a clear definition for this category of migrants, nor an international formal recognition that guarantees the rights of affected populations to protection and asylum and that ascribes the responsibility of the developed countries and the Global North (it is, the main emitters of greenhouse gases) towards the problem. However, as recognized by Jean-Claude Juncker (European Commission President) at State of the Union speech in 2015 “Climate change is one of the root causes of a new migration phenomenon. Climate refugees will become a new challenge – if we do not act swiftly”[1].
 
@@ -18,7 +18,7 @@ The gap in the current legal framework, the 1951 Refugee Convention, limits the 
 In light of the recent estimation made by The International Organization for Migration (IOM), there could be as many as **200 million such refugees by 2050.** Although some efforts have been made to reach a possible legal definition, the question still remains: ***Why is there still no legal definition of the term climate refugee, when all the evidence indicates a dire need for such a framework?***
 
 
-### **The complexities: Establishing clear causal relationships**
+#### **The complexities: Establishing clear causal relationships**
 
 In our investigation, one of the main problems in defining “climate refugee” is not being able to establish **the existence and shape of the causal relationship between climate change, migration and conflicts**, since most of the time causal connections are intertwined or disguised behind one another in many different and complicated ways.
 
@@ -29,7 +29,7 @@ Nevertheless, it has been also argued that “given the likelihood that environm
 With this project, we intend to contribute mostly to the research on possible methodologies of data spatialization, in order to portray the relations between the 3 types of phenomena.
 
 
-## **The Project: Three case studies in the Sahel, Africa**
+#### **The Project: Three case studies in the Sahel, Africa**
 
 ![Environmental impacts in Africa](/conflict_urbanism_sp2021/images/climate-refugees/sahel.png)
 <br>
@@ -67,7 +67,7 @@ In the past, recurring disputes over land and natural resources have been succes
 While the second layer of the conflict could be traced to 2011, a notable increase in migration and deaths in Zamfara region in 2018 indicate a visible aggravation of conflict. According to current estimations, since 2010 and only in the Zamfara state, around 8,000 people have been  killed, 200,000 internally displaced, and 60,000 seeked refuge in neighbouring countries, mostly Niger [10].
 
 
-## THE MIDDLE BELT: BENUE STATE
+#### **THE MIDDLE BELT: BENUE STATE**
 
 <div class="iframe-column"><iframe src="https://player.vimeo.com/video/540840670" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 <br>
@@ -105,7 +105,7 @@ Environmental problems connected to scarcity of water resources and aridity of d
 
 As the insurgency sieged the vulnerable areas with poor environmental conditions, and inflicted heavy conflicts, the tyranny forced residents of Borno to migrate as a way to escape. When conflicts peaked in January 2015 (Boko Haram kidnapping women and children) [16], we saw stories of migration as somehow a testimony of survival from fleeing the insurgency. Ultimately, the IDPs and migrants move to areas where there is more access to livelihood or to refugee camps and host communities.
 
-## The Conclusion: More spatial research and personal testimonies
+#### **The Conclusion: More spatial research and personal testimonies**
 In this research we shed light on the complexities that hinder any attempts of establishing a legal definition of a “climate refugee”. Personal testimonies indicate a chain of events leading to the migration, starting with climate change induced resource scarcity and ending with international and internal flight from violence. As indicated by numerous research studies, a causal relation between climate vulnerability and appearance of conflict could not be easily established. However, this study has put forward stories of 3 states in Nigeria, which appear to be in different stadiums of the same process. 
 
 Despite lacking sufficient geographical data, we recommend further spatial processing and mapping as a way to portray problems of climate migration. Due to the physical nature of the 3 coinciding phenomena (migration-vector, conflict-point, climate change-region), GIS analysis could in fact provide the only viable methodology of study. Furthermore, future research could rely on the personal testimonies of displaced persons more than just as a narrative-building supplement. We recognize them as a valuable contextualizing tool with a humanistic perspective that could complement oversimplified causal relations generated by data visualization. They could become the missing link, bringing forward more obscure and complex chains of events that lead to inevitable mass migrations throughout the globe. 
@@ -118,7 +118,7 @@ In response to the prevailing assumption that the internationally acclaimed term
 3. In personal testimonies, some names have been changed by the interview publishers to protect the identity of the displaced individuals. At the same time, several origins of migration have been difficult to establish as well, while some village names do not exist in any repository of geographical names, or have been changed on purpose as well. 
 
 ----
-### **References**
+#### **References**
 **Cited Literature:** <br>
 [1] Apap, J. (2019). The Concept of ‘Climate Refugee’: Towards a Possible Definition, European Parliamentary Research Service (EPRS), 8. Retrieved from https://www.europarl.europa.eu/thinktank/en/document.html?reference=EPRS_BRI(2018)621893. <br>
 [2] Apap, J. (2019). <br>
@@ -156,4 +156,4 @@ Google Earth. (2021). Historical imagery of Nigeria from 1984 to 2020. Retrieved
 International Organization for Migration. (2019). Migration Flows in West and Central Africa. Retrieved from https://migration.iom.int/data-stories/migration-flows-west-central-africa <br>
 International Organization for Migration. (2021). Nigeria Displacement - [IDPs] - Baseline Assessment [IOM DTM]. Retrieved from https://data.humdata.org/dataset/nigeria-baseline-data-iom-dtm <br>
 International Organization for Migration. (2021). Nigeria Displacement - [IDPs] - Location Assessment [IOM DTM]. Retrieved from https://data.humdata.org/dataset/nigeria-location-assessment-data#:~:text=DTM%20location%20assessment%20is%20to,for%20more%20detailed%20site%20assessments. <br>
-U.S. Geological Survey Earth Explorer. (2021). Nigeria Landsat Aerial Imagery. Retrieved from https://earthexplorer.usgs.gov/ <br>
+U.S. Geological Survey Earth Explorer. (2021). Nigeria Landsat-8 Aerial Imagery. Retrieved from https://earthexplorer.usgs.gov/ <br>
