@@ -124,7 +124,11 @@ Built primarily with surveillance, control and crime prevention in mind, the lan
 
 
 5: Bill board
+
+
 6: Awning
+
+
 7: Mural
 
 
@@ -132,7 +136,11 @@ Built primarily with surveillance, control and crime prevention in mind, the lan
 
 
 8: Picketed fence
+
+
 9: Bus stop
+
+
 10: Bench
 
 
@@ -145,8 +153,14 @@ Built primarily with surveillance, control and crime prevention in mind, the lan
 
 
 11: Electric lines
+
+
 12: Facade lighting
+
+
 13: Trash
+
+
 14: Greenery
 
 
