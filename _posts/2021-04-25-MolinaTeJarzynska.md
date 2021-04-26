@@ -45,8 +45,7 @@ These three particular case studies were selected as they present distinct types
 <br>
 
 <br><br>
-#### **SOKOTO-ZAMFARA, NORTHWEST NIGERIA**
-<br>
+#### **SOKOTO-ZAMFARA, NORTH WEST NIGERIA**
 <div class="iframe-column"><iframe src="https://player.vimeo.com/video/541420026" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 <br>
 
@@ -69,7 +68,6 @@ While the second layer of the conflict could be traced to 2011, a notable increa
 
 <br><br>
 #### **THE MIDDLE BELT: BENUE STATE**
-<br>
 <div class="iframe-column"><iframe src="https://player.vimeo.com/video/540840670" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 <br>
 
@@ -82,7 +80,6 @@ While the causal connection of climate change in the north of Nigeria leading to
 
 <br><br>
 #### **BORNO, LAKE CHAD BASIN**
-<br>
 <div class="iframe-column"><iframe src="https://player.vimeo.com/video/541834881" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 <br>
 
