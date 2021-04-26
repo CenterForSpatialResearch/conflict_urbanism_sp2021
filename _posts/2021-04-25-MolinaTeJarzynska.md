@@ -32,7 +32,7 @@ With this project, we intend to contribute mostly to the research on possible me
 #### **The Project: Three case studies in the Sahel, Africa**
 <br>
 ![Environmental impacts in Africa](/conflict_urbanism_sp2021/images/climate-refugees/sahel.png)
-_Data of Figure 1 is from [IOM, 2015 [7]](https://environmentalmigration.iom.int/europe-and-africa)._
+Data of Figure 1 is from [IOM, 2015 [7]](https://environmentalmigration.iom.int/europe-and-africa).
 <br>
 This research is focused in the Sahel area of Central Africa, since it is a region acutely affected by climate change (Figure 1), which heavily threatens the environmental and livelihood conditions of the region. More precisely, we chose three regions within Nigeria, namely Northwestern **Sokoto and Zamfara**, Central **Benue** and the Northeastern **Borno** state (located by Lake Chad).
 
