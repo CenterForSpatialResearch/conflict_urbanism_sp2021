@@ -125,7 +125,6 @@ In response to the prevailing assumption that the internationally acclaimed term
 
 <br><br>
 ----
-<br>
 #### **References**
 **Cited Literature:** <br>
 [1] Apap, J. (2019). The Concept of ‘Climate Refugee’: Towards a Possible Definition, European Parliamentary Research Service (EPRS), 8. Retrieved from https://www.europarl.europa.eu/thinktank/en/document.html?reference=EPRS_BRI(2018)621893. <br>
